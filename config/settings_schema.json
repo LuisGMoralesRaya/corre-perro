@@ -25,7 +25,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Use Kalles and explore all the tools and services you need to start, run, and grow your business. We know that Kalles will make your life easier by improving your workflow. With the tools that Kalles gives you, you will realize your true design potential without the need to know any coding. We would be glad if you help us to improve our theme, installation process or documentation."
+        "content": "Use Corre Perroand explore all the tools and services you need to start, run, and grow your business. We know that Corre Perrowill make your life easier by improving your workflow. With the tools that Corre Perrogives you, you will realize your true design potential without the need to know any coding. We would be glad if you help us to improve our theme, installation process or documentation."
       }
     ]
   },
@@ -256,7 +256,7 @@
         "type": "textarea",
         "id": "home_keywords",
         "label": "Keywords for homepage",
-        "default": "Kalles shopify, Fastest, Ajax Shop, Minimal, Lazyload",
+        "default": "Corre Perroshopify, Fastest, Ajax Shop, Minimal, Lazyload",
         "info": "Define keywords for search engines."
       },
       {
