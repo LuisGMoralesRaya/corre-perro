@@ -504,7 +504,7 @@
           "top-bar-2"
         ],
         "settings": {
-          "show_topbar": true,
+          "show_topbar": false,
           "topbar_transparent": false,
           "height": 45,
           "fontsize": 12,
@@ -670,7 +670,7 @@
           "9a73cf8b-993e-4dbe-9f11-6e990bfb91c0"
         ],
         "settings": {
-          "layout": "logo_left",
+          "layout": "logo_center",
           "full_header": true,
           "height": 70,
           "arrow": false,
