@@ -409,8 +409,9 @@
         "1646035040fee424aa-0": {
           "type": "collection_item",
           "settings": {
-            "collection": "women",
-            "collection_title": "Women",
+            "collection": "corriendo-canicross",
+            "image": "shopify:\/\/shop_images\/canicross_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_1.jpg",
+            "collection_title": "Canicross",
             "collection_link": ""
           }
         },
@@ -418,7 +419,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "accessories",
-            "collection_title": "Accessories",
+            "image": "shopify:\/\/shop_images\/canitrail_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_2-min.jpg",
+            "collection_title": "Canitrail",
             "collection_link": ""
           }
         },
@@ -426,15 +428,26 @@
           "type": "collection_item",
           "settings": {
             "collection": "shoes",
-            "collection_title": "Footwear",
+            "image": "shopify:\/\/shop_images\/paseos_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_5.jpg",
+            "collection_title": "Paseos",
             "collection_link": ""
           }
         },
         "fb81d2b5-38b4-4322-93fc-cd722f8758f3": {
           "type": "collection_item",
           "settings": {
-            "collection": "watch",
-            "collection_title": "Watches",
+            "collection": "bicicleta-bikejoring",
+            "image": "shopify:\/\/shop_images\/bikejoring_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_1.jpg",
+            "collection_title": "Bikejoring",
+            "collection_link": ""
+          }
+        },
+        "4d6dfb1a-a4cd-4613-bf30-f2332becf213": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/canijogging_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_6.jpg",
+            "collection_title": "Canijogging",
             "collection_link": ""
           }
         }
@@ -443,7 +456,8 @@
         "1646035040fee424aa-0",
         "1646035040fee424aa-1",
         "1646035040fee424aa-2",
-        "fb81d2b5-38b4-4322-93fc-cd722f8758f3"
+        "fb81d2b5-38b4-4322-93fc-cd722f8758f3",
+        "4d6dfb1a-a4cd-4613-bf30-f2332becf213"
       ],
       "settings": {
         "design_heading": "2",
