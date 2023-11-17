@@ -461,7 +461,7 @@
       ],
       "settings": {
         "design_heading": "1",
-        "heading_align": "t4s-text-center",
+        "heading_align": "t4s-text-start",
         "top_heading": "¿QUÉ ACTIVIDAD HACES CON TU AMIGO DE 4 PATAS?",
         "icon_heading": "gem",
         "top_subheading": "",
@@ -501,7 +501,7 @@
       "settings": {
         "design_heading": "2",
         "heading_align": "t4s-text-center",
-        "top_heading": "TRENDING",
+        "top_heading": "MULTIPLICA X 2 LA FELICIDAD DE TU AMIGO DE 4 PATAS CON ESTOS ARTÍCULOS",
         "icon_heading": "gem",
         "top_subheading": "Top view in this week",
         "tophead_mb": 30,
