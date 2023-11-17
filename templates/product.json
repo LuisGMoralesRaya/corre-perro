@@ -42,7 +42,7 @@
           "type": "description",
           "settings": {
             "des": "2",
-            "text": "<p>Go Corre Perrothis summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish Corre Perrovibe.<\/p>",
+            "text": "",
             "length": 31,
             "readm": false,
             "readm_txt": "Read more"
@@ -57,10 +57,10 @@
             "color_size": "medium",
             "show_qty": true,
             "enable_wishlist": true,
-            "enable_compare": true,
+            "enable_compare": false,
             "btn_atc_full": false,
-            "pr_btn_round": 40,
-            "ani": "t4s-ani-shake",
+            "pr_btn_round": 19,
+            "ani": "none",
             "time": 6,
             "btn_txt": "3",
             "btn_icon": false,
