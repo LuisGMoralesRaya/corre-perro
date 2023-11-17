@@ -517,7 +517,7 @@
         "product_des": "1",
         "show_vendor": false,
         "use_cdt": false,
-        "image_ratio": "rationt",
+        "image_ratio": "ratio3_2",
         "image_size": "cover",
         "image_position": "8",
         "content_align": "default",
@@ -534,7 +534,7 @@
         "au_time": 0,
         "au_hover": true,
         "nav_btn": true,
-        "btns_pos": "default",
+        "btns_pos": "ontop",
         "btn_vi": "hover",
         "btn_owl": "outline",
         "btn_shape": "none",
@@ -1246,6 +1246,136 @@
         "use_cus_css": false,
         "code_cus_css": ".SectionID {\nbackground-color:red\n}"
       }
+    },
+    "bf9c7383-e1f6-4510-a7f0-0b62851bd17d": {
+      "type": "collections-list",
+      "blocks": {
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "bicicleta-bikejoring",
+            "image": "shopify:\/\/shop_images\/396727248_1403707913517477_4508260014587160282_n.jpg",
+            "icon": "las la-gem",
+            "collection_title": "Collection",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "icon": "las la-gem",
+            "collection_title": "Collection",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "icon": "las la-gem",
+            "collection_title": "Collection",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "icon": "las la-gem",
+            "collection_title": "Collection",
+            "collection_link": ""
+          }
+        },
+        "2ae7a298-2de2-4b40-9a78-eddecb790e2c": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "icon": "las la-gem",
+            "collection_title": "Collection",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-1",
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-2",
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-3",
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-4",
+        "2ae7a298-2de2-4b40-9a78-eddecb790e2c"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "Nuestras Colecciones",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "head_btn_label": "View All",
+        "head_btn_url": "",
+        "head_btn_icon": false,
+        "head_btn_style": "default",
+        "head_btn_size": "medium",
+        "head_btn_cl": "dark",
+        "head_btn_effect": "default",
+        "head_btn_hidden_mb": false,
+        "collection_des": "1",
+        "title_cl": "#ffffff",
+        "title_cl_hover": "#222222",
+        "subtitle_cl": "#878787",
+        "count_cl": "#222222",
+        "border_cl": "#e5e5e5",
+        "collection_subtitle": "Products",
+        "open_link": "_self",
+        "source": "image",
+        "space_bottom": 20,
+        "space_bottom_tb": 20,
+        "space_bottom_mb": 10,
+        "border": false,
+        "item_pd": 0,
+        "item_rd": 0,
+        "img_effect": "none",
+        "b_effect": "none",
+        "image_ratio": "ratio1_1",
+        "image_size": "cover",
+        "image_position": "8",
+        "layout_des": "1",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_pos": "default",
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": false,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1256,6 +1386,7 @@
     "164603686708691778",
     "16460368750174c54a",
     "1646209857bf69e76a",
-    "164620932069107a3a"
+    "164620932069107a3a",
+    "bf9c7383-e1f6-4510-a7f0-0b62851bd17d"
   ]
 }
