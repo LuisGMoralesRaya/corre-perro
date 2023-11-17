@@ -657,7 +657,7 @@
           "show_acc": true,
           "show_wis": true,
           "cart_des": "1",
-          "bg_hc": "#ffffff",
+          "bg_hc": "#383838",
           "cl_hc": "#ffffff",
           "sticky_header": true,
           "scroll_header": true,
