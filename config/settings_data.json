@@ -237,7 +237,7 @@
             "type": "bl_col",
             "settings": {
               "col_heading": "Infomation",
-              "menu": "",
+              "menu": "footer",
               "menu_style": "1",
               "col_border": "none",
               "col_dk": "2",
