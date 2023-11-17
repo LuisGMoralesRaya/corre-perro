@@ -197,7 +197,7 @@
         "bded529b-9b8f-4d5c-8f04-5de0b22e627d"
       ],
       "settings": {
-        "pr_layout": "wide",
+        "pr_layout": "default",
         "enable_sticky_info": true,
         "media_layout": "thumbnails_bottom",
         "media_size": "medium",
@@ -206,7 +206,7 @@
         "image_size": "cover",
         "image_position": "8",
         "main_click": "zoom",
-        "zoom_tp": "external",
+        "zoom_tp": "inner2",
         "enable_zoom_icon": true,
         "enable_zoom_click_mb": true,
         "enable_video_looping": false,
