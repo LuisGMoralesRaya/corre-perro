@@ -91,7 +91,7 @@
         "390cb6f8-c5fc-44ed-badf-074a03818e5a": {
           "type": "custom_button",
           "settings": {
-            "button_text": "Explore Now",
+            "button_text": "Comprar",
             "button_link": "shopify:\/\/collections",
             "target_link": "_self",
             "fontf": "inherit",
