@@ -460,7 +460,7 @@
         "4d6dfb1a-a4cd-4613-bf30-f2332becf213"
       ],
       "settings": {
-        "design_heading": "16",
+        "design_heading": "1",
         "heading_align": "t4s-text-center",
         "top_heading": "",
         "icon_heading": "gem",
@@ -513,7 +513,7 @@
         "head_btn_cl": "dark",
         "head_btn_effect": "default",
         "head_btn_hidden_mb": false,
-        "collection": "default",
+        "collection": "bicicleta-bikejoring",
         "product_des": "1",
         "show_vendor": false,
         "use_cdt": false,
