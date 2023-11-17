@@ -57,7 +57,7 @@
             "color_size": "medium",
             "show_qty": true,
             "enable_wishlist": true,
-            "enable_compare": false,
+            "enable_compare": true,
             "btn_atc_full": false,
             "pr_btn_round": 19,
             "ani": "none",
