@@ -17,9 +17,9 @@
           "settings": {
             "txt_tr_pr": "none",
             "fnt_df_pr": "3",
-            "size_pr": 20,
+            "size_pr": 24.5,
             "fw_pr": 800,
-            "lh_pr": 41,
+            "lh_pr": 32,
             "ls_pr": 0,
             "pr_title_color": "#1e2a54"
           }
