@@ -58,7 +58,7 @@
             "show_qty": true,
             "enable_wishlist": true,
             "enable_compare": true,
-            "btn_atc_full": false,
+            "btn_atc_full": true,
             "pr_btn_round": 19,
             "ani": "none",
             "time": 6,
