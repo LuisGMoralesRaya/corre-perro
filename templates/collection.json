@@ -1,5 +1,71 @@
 {
   "sections": {
+    "sidebar": {
+      "type": "sidebar-collection",
+      "blocks": {
+        "c7bdf308-8019-4991-b58c-6d3e205a52eb": {
+          "type": "category",
+          "settings": {
+            "heading": "Product Categories",
+            "cat_source": "1",
+            "cat_link_list": "",
+            "count": true
+          }
+        },
+        "9d37e80a-1eda-4a65-bb08-199e6a933a16": {
+          "type": "collection",
+          "settings": {
+            "heading": "Sale Products",
+            "collection": "frontpage",
+            "limit_pr": 3,
+            "image_ratio": "t4s_ratioadapt",
+            "image_size": "t4s_cover",
+            "image_position": "t4s_position_8"
+          }
+        },
+        "c090f36e-d6ef-4a2a-ab04-cc78211dadb7": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "img_effect": "zoom",
+            "b_link": "",
+            "open_link": "_self",
+            "content_align": "center",
+            "date": "2023\/12\/26",
+            "cdt_des": "1",
+            "countdown_pos": "2",
+            "cdt_size": "small",
+            "box_bdr": 0,
+            "bd_width": 0,
+            "space_item": 10,
+            "number_cl": "#ffffff",
+            "text_cl": "#222222",
+            "border_cl": "#000000",
+            "bg_cl": "#000000"
+          }
+        },
+        "221aa22f-5c6c-40c9-9403-6d3cd2c23e93": {
+          "type": "filter",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "c7bdf308-8019-4991-b58c-6d3e205a52eb",
+        "9d37e80a-1eda-4a65-bb08-199e6a933a16",
+        "c090f36e-d6ef-4a2a-ab04-cc78211dadb7",
+        "221aa22f-5c6c-40c9-9403-6d3cd2c23e93"
+      ],
+      "settings": {
+        "enable_drawer": true,
+        "space": 50,
+        "size": "medium",
+        "br_style": "none",
+        "brcolor": "#222222",
+        "sidebar_bdr": 0,
+        "sidebar_pd": 15
+      }
+    },
     "top": {
       "type": "top-collections",
       "blocks": {
@@ -251,78 +317,12 @@
         "mg_mb": ",,30px,",
         "pd_mb": ""
       }
-    },
-    "sidebar": {
-      "type": "sidebar-collection",
-      "blocks": {
-        "c7bdf308-8019-4991-b58c-6d3e205a52eb": {
-          "type": "category",
-          "settings": {
-            "heading": "Product Categories",
-            "cat_source": "1",
-            "cat_link_list": "",
-            "count": true
-          }
-        },
-        "9d37e80a-1eda-4a65-bb08-199e6a933a16": {
-          "type": "collection",
-          "settings": {
-            "heading": "Sale Products",
-            "collection": "frontpage",
-            "limit_pr": 3,
-            "image_ratio": "t4s_ratioadapt",
-            "image_size": "t4s_cover",
-            "image_position": "t4s_position_8"
-          }
-        },
-        "c090f36e-d6ef-4a2a-ab04-cc78211dadb7": {
-          "type": "image",
-          "settings": {
-            "heading": "",
-            "img_effect": "zoom",
-            "b_link": "",
-            "open_link": "_self",
-            "content_align": "center",
-            "date": "2023\/12\/26",
-            "cdt_des": "1",
-            "countdown_pos": "2",
-            "cdt_size": "small",
-            "box_bdr": 0,
-            "bd_width": 0,
-            "space_item": 10,
-            "number_cl": "#ffffff",
-            "text_cl": "#222222",
-            "border_cl": "#000000",
-            "bg_cl": "#000000"
-          }
-        },
-        "221aa22f-5c6c-40c9-9403-6d3cd2c23e93": {
-          "type": "filter",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "c7bdf308-8019-4991-b58c-6d3e205a52eb",
-        "9d37e80a-1eda-4a65-bb08-199e6a933a16",
-        "c090f36e-d6ef-4a2a-ab04-cc78211dadb7",
-        "221aa22f-5c6c-40c9-9403-6d3cd2c23e93"
-      ],
-      "settings": {
-        "enable_drawer": false,
-        "space": 50,
-        "size": "medium",
-        "br_style": "none",
-        "brcolor": "#222222",
-        "sidebar_bdr": 0,
-        "sidebar_pd": 15
-      }
     }
   },
   "order": [
+    "sidebar",
     "top",
     "heading_template",
-    "main",
-    "sidebar"
+    "main"
   ]
 }
