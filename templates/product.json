@@ -28,14 +28,14 @@
           "type": "price_review",
           "settings": {
             "price": "0",
-            "type_sale": "0",
+            "type_sale": "2",
             "tax_ship": false,
             "rating": true,
             "review_liquid": "",
-            "size_price_pr": 19,
+            "size_price_pr": 25.5,
             "fw_price_pr": 400,
-            "price_color": "#ff4e00",
-            "price_sale_color": "#222222"
+            "price_color": "#ec0101",
+            "price_sale_color": "#1e2a54"
           }
         },
         "description": {
