@@ -63,9 +63,9 @@
             "ani": "none",
             "time": 6,
             "btn_txt": "3",
-            "btn_icon": false,
+            "btn_icon": true,
             "button_style": "default",
-            "button_color": "primary",
+            "button_color": "dark",
             "button_effect": "sweep-to-top",
             "wishlist_color": "#222222",
             "wishlist_color_hover": "#56cfe1",
@@ -73,7 +73,7 @@
             "compare_color": "#222222",
             "compare_color_hover": "#56cfe1",
             "compare_color_active": "#222222",
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "btn_txt2": "3",
             "button_color_payment": "dark",
             "show_gift_card_recipient": true,
@@ -94,10 +94,10 @@
             "al": "start",
             "mess": "",
             "size": 16,
-            "source": "1",
-            "wimg": 70,
-            "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
-            "height": 11
+            "source": "2",
+            "wimg": 100,
+            "svg": "visa,klarna,american_express",
+            "height": 34
           }
         },
         "size_delivery_ask": {
