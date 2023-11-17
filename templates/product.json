@@ -95,7 +95,6 @@
             "mess": "",
             "size": 16,
             "source": "1",
-            "image": "shopify:\/\/shop_images\/trust_img2_2eeb3a29-a319-4587-a399-d448de7e8c33.png",
             "wimg": 70,
             "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
             "height": 11
@@ -199,7 +198,7 @@
       "settings": {
         "pr_layout": "default",
         "enable_sticky_info": true,
-        "media_layout": "thumbnails_left",
+        "media_layout": "thumbnails_bottom",
         "media_size": "medium",
         "thumb_lr_size": "medium",
         "image_ratio": "ratioadapt",
