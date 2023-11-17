@@ -96,7 +96,7 @@
             "size": 16,
             "source": "2",
             "wimg": 100,
-            "svg": "visa,klarna,american_express",
+            "svg": "visa,master_card,american_express,mercadopago,aplazo,kueskipay",
             "height": 34
           }
         },
