@@ -70,7 +70,7 @@
             "wishlist_color": "#ff9800",
             "wishlist_color_hover": "#56cfe1",
             "wishlist_color_active": "#e81e1e",
-            "compare_color": "#222222",
+            "compare_color": "#ff9800",
             "compare_color_hover": "#56cfe1",
             "compare_color_active": "#222222",
             "show_dynamic_checkout": true,
