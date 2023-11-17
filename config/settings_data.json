@@ -670,7 +670,7 @@
           "bgnavtr": "#000000",
           "opnavtr": 40,
           "clnavtr": "#ffffff",
-          "clnavtr_hover": "#56cfe1",
+          "clnavtr_hover": "#fff",
           "fm_nav": "1",
           "fs_nav": 14,
           "fw_nav": 400,
