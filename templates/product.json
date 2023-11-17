@@ -102,6 +102,7 @@
         },
         "size_delivery_ask": {
           "type": "size_delivery_ask",
+          "disabled": true,
           "settings": {
             "size_chart": "3",
             "pos_sizeg": "1",
@@ -120,11 +121,11 @@
             "show_options": false,
             "show_vendor": false,
             "show_type": false,
-            "show_sku": true,
-            "show_barcode": false,
+            "show_sku": false,
+            "show_barcode": true,
             "show_available": true,
             "show_category": true,
-            "show_tags": true
+            "show_tags": false
           }
         },
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
