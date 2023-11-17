@@ -344,9 +344,8 @@
           },
           "33eb929e-a001-4d96-82a0-5aab1aaabaea": {
             "type": "payments",
-            "disabled": true,
             "settings": {
-              "svg": "visa,paypal,maestro,american_express,discover",
+              "svg": "visa,master,paypal,american_express,mercadopago,aplazo,kueskipay",
               "height": 30,
               "hidden_mobile": false,
               "mgb": 20,
