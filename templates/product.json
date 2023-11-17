@@ -67,7 +67,7 @@
             "button_style": "default",
             "button_color": "dark",
             "button_effect": "sweep-to-top",
-            "wishlist_color": "#222222",
+            "wishlist_color": "#ff9800",
             "wishlist_color_hover": "#56cfe1",
             "wishlist_color_active": "#e81e1e",
             "compare_color": "#222222",
