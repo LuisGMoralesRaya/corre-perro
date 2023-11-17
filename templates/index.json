@@ -423,8 +423,8 @@
           "settings": {
             "icon_themes": "help",
             "icon": "las la-life-ring",
-            "title": "SUPPORT 24\/7",
-            "text": "<p>Contact us 24 hours a day, 7 days a week<\/p>",
+            "title": "SOPORTE Y ASESORÍA EXPERTA ILIMITADA",
+            "text": "<p>No sabes que elegir, no conoces nada de deportes con perros, te ayudamos a elegir lo mejor<\/p>",
             "html": ""
           }
         },
@@ -433,8 +433,8 @@
           "settings": {
             "icon_themes": "refesh",
             "icon": "las la-undo-alt",
-            "title": "30 DAYS RETURN",
-            "text": "<p>Simply return it within 30 days for an exchange.<\/p>",
+            "title": "GARANTÍA DE SATISFACCIÓN",
+            "text": "<p>Si la talla no le queda, si tu equipo no les saca una sonrisa mientras corren, te devolvemos tu dinero<\/p>",
             "html": ""
           }
         },
@@ -443,8 +443,8 @@
           "settings": {
             "icon_themes": "door-lock",
             "icon": "las la-lock",
-            "title": "100% PAYMENT SECURE",
-            "text": "<p>We ensure secure payment with PEV<\/p>",
+            "title": "PAGA A MESES SIN INTERSES",
+            "text": "<p>Pagos seguros y pagos con facilidades para que puedas disfrutar de tu equipo de aventuras<\/p>",
             "html": ""
           }
         }
