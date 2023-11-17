@@ -24,6 +24,7 @@
     "label_sale_style": "2",
     "use_new_badge": false,
     "sale_badge_color": "#56cfe1",
+    "price_varies_style": "2",
     "type_qv": "2",
     "show_qty": false,
     "pr_border_style": "1",
