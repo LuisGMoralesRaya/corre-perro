@@ -15,9 +15,9 @@
         "title": {
           "type": "title",
           "settings": {
-            "txt_tr_pr": "capitalize",
+            "txt_tr_pr": "none",
             "fnt_df_pr": "3",
-            "size_pr": 33.5,
+            "size_pr": 29,
             "fw_pr": 700,
             "lh_pr": 55,
             "ls_pr": 0,
