@@ -462,7 +462,7 @@
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
-        "top_heading": "",
+        "top_heading": "Hola mundo",
         "icon_heading": "gem",
         "top_subheading": "",
         "tophead_mb": 30,
@@ -1286,23 +1286,13 @@
             "collection_title": "Collection",
             "collection_link": ""
           }
-        },
-        "2ae7a298-2de2-4b40-9a78-eddecb790e2c": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "icon": "las la-gem",
-            "collection_title": "Collection",
-            "collection_link": ""
-          }
         }
       },
       "block_order": [
         "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-1",
         "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-2",
         "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-3",
-        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-4",
-        "2ae7a298-2de2-4b40-9a78-eddecb790e2c"
+        "template--15320391024755__bf9c7383-e1f6-4510-a7f0-0b62851bd17d-collection_item-4"
       ],
       "settings": {
         "design_heading": "1",
