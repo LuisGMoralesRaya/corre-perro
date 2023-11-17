@@ -412,9 +412,9 @@
           "type": "shipping",
           "settings": {
             "icon_themes": "car",
-            "icon": "las la-shipping-fast",
+            "icon": "shipping-fast",
             "title": "ENVIO NACIONAL GRATIS",
-            "text": "<p>Free shipping on all US order or order above $100<\/p>",
+            "text": "<p>Envío gratis a toda la república mexicana en toda la tienda siempre<\/p>",
             "html": ""
           }
         },
