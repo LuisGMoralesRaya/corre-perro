@@ -1639,7 +1639,7 @@
         "settings": {
           "style": "1",
           "pos": "2",
-          "enable_pr": true,
+          "enable_pr": false,
           "enable_calc_ship": true,
           "enable_note": true,
           "enable_rates": true,
