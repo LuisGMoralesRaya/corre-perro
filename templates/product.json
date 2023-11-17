@@ -32,8 +32,8 @@
             "tax_ship": false,
             "rating": true,
             "review_liquid": "",
-            "size_price_pr": 25,
-            "fw_price_pr": 500,
+            "size_price_pr": 24,
+            "fw_price_pr": 400,
             "price_color": "#ec0101",
             "price_sale_color": "#1e2a54"
           }
