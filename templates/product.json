@@ -48,6 +48,12 @@
             "readm_txt": "Read more"
           }
         },
+        "461ac1c5-11ed-48e3-8b80-39adec169ac4": {
+          "type": "shopify:\/\/apps\/aplazo-banner\/blocks\/product-banner\/baf789e0-a296-4b10-bc87-11417720714b",
+          "settings": {
+            "aplazo_theme": ""
+          }
+        },
         "form": {
           "type": "form",
           "settings": {
@@ -184,6 +190,7 @@
         "title",
         "price_review",
         "description",
+        "461ac1c5-11ed-48e3-8b80-39adec169ac4",
         "form",
         "23551ebc-3be1-40d6-81b2-30f03478cccb",
         "size_delivery_ask",
