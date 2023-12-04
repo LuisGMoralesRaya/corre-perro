@@ -20,7 +20,7 @@
             "cv_pos_mb": 50,
             "ch_pos_mb": 0,
             "bg_overlay": "#000000",
-            "bg_opacity": 0,
+            "bg_opacity": 30,
             "bg_content_cl": "rgba(0,0,0,0)",
             "bg_content_op": 0,
             "content_radius": 0,
