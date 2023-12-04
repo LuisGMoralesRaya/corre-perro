@@ -75,14 +75,49 @@
       {%- assign t4s_font_fm3 = fm_gg3 -%}
 
     {%- endif -%}
+    @font-face {
+    font-family: 'Futura';
+    src: url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/Futura-Bold.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/Futura-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LtCn BT';
+    src: url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-LightCondensed.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-LightCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura Md BT';
+    src: url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-Medium.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura BdCn BT';
+    src: url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-BoldCondensed.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0269/4175/1411/files/FuturaBT-BoldCondensed.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
 
     :root {
         
          /* CSS Variables */
         --wrapper-mw      : {{ settings.cus_w_bd }}px;
-        --font-family-1   : {{ t4s_font_fm1 }};
-        --font-family-2   : {{ t4s_font_fm2 }};
-        --font-family-3   : {{ t4s_font_fm3 }};
+        --font-family-1   : 'Futura Md BT';
+        --font-family-2   : 'Futura BdCn BT';
+        --font-family-3   : 'Futura LtCn BT';
         --font-body-family   : {% if settings.bd_ffamily == '1' %}{{ t4s_font_fm1 }}{% elsif settings.bd_ffamily == '2' %}{{ t4s_font_fm2 }}{% else %}{{ t4s_font_fm3 }}{% endif %};
         --font-heading-family: {% if settings.hd_ffamily == '1' %}{{ t4s_font_fm1 }}{% elsif settings.hd_ffamily == '2' %}{{ t4s_font_fm2 }}{% else %}{{ t4s_font_fm3 }}{% endif %};
        {% comment %} --font-button-family : {% if settings.fnt_fm_button == '1' %}{{ t4s_font_fm1 }}{% elsif settings.fnt_fm_button == '2' %}{{ t4s_font_fm2 }}{% else %}{{ t4s_font_fm3 }}{% endif %};{% endcomment %}
