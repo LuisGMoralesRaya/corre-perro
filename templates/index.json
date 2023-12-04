@@ -280,7 +280,7 @@
             "text": "SUMMER SALE",
             "remove_br_tag": false,
             "tag": "p",
-            "fontf": "inherit",
+            "fontf": "3",
             "text_cl": "#222222",
             "text_fs": 18,
             "text_lh": 0,
