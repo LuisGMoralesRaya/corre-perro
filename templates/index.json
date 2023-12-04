@@ -304,7 +304,7 @@
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
-            "text_cl": "#fff",
+            "text_cl": "#ffffff",
             "text_fs": 55,
             "text_lh": 55,
             "text_fw": 600,
@@ -596,7 +596,7 @@
     "1646035317ea8b6928": {
       "type": "featured-collection",
       "settings": {
-        "design_heading": "2",
+        "design_heading": "4",
         "heading_align": "t4s-text-center",
         "top_heading": "MULTIPLICA X 2 LA FELICIDAD DE TU AMIGO DE 4 PATAS CON ESTOS ARTÍCULOS",
         "icon_heading": "gem",
