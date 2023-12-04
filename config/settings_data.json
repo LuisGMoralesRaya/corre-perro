@@ -617,7 +617,7 @@
           "334013b4-82f3-4046-8371-eaf3c3340153"
         ],
         "settings": {
-          "layout": "logo_search",
+          "layout": "menu_split",
           "full_header": true,
           "height": 70,
           "arrow": false,
