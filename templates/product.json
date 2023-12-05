@@ -155,6 +155,12 @@
             "title": "Additional Information"
           }
         },
+        "19ec4c4d-aa7f-420e-8939-2927f95efbf6": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "html_area": ""
+          }
+        },
         "754ad4a0-7308-4a3e-b325-e2f2c0b85d4c": {
           "type": "tab_html",
           "settings": {
@@ -208,6 +214,7 @@
         "meta",
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8",
         "e36839f5-0847-44e2-97d3-2885597bd1ff",
+        "19ec4c4d-aa7f-420e-8939-2927f95efbf6",
         "754ad4a0-7308-4a3e-b325-e2f2c0b85d4c",
         "56e67368-7424-4d73-8f14-dacdda4c59be",
         "94011ade-ec25-4d68-b37a-70660ede49dd",
