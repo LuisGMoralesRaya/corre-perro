@@ -4344,6 +4344,7 @@ shopify policy
  */
 .shopify-policy__container {
     margin: 60px auto;
+    max-width: 1280px!important;
 }
 .t4s-product__media-item.is--media-hide,
 .t4s-carousel__nav-item.is--media-hide {
