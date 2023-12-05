@@ -11,6 +11,7 @@
     "logo_tr_width": 95,
     "accent_color": "#ff9800",
     "link_color_hover": "#1e2a54",
+    "btn_bg": "#1e2a54",
     "cl_lazyload": "#1e2a54",
     "bg_lazyload": "#ff9800",
     "sw_border": "#ff9800",
