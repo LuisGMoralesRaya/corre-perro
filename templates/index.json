@@ -633,7 +633,7 @@
         "nav_btn": true,
         "btns_pos": "default",
         "btn_vi": "always",
-        "btn_owl": "outline",
+        "btn_owl": "simple",
         "btn_shape": "none",
         "btn_cl": "dark",
         "btn_size": "medium",
