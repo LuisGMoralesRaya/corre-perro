@@ -236,18 +236,18 @@
         "e9f249a0-0a0f-4baf-9664-73babbd7bbe7"
       ],
       "settings": {
-        "heading_fullwidth": false,
+        "heading_fullwidth": true,
         "use_specify_image": true,
         "parallax": true,
         "color": "#1e2a54",
         "overlay": 35,
         "padding": 100,
-        "paddingmb": 50,
+        "paddingmb": 49,
         "mg_b": 0,
         "mg_bmb": 0,
         "content_align": "t4s-text-center",
         "bg_pos": "center center",
-        "bg_repeat": "repeat-x",
+        "bg_repeat": "no-repeat",
         "bg_size": "cover",
         "use_cus_css": false,
         "code_cus_css": ".SectionID {\nbackground-color:red\n}"
