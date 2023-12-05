@@ -1282,6 +1282,32 @@
       "mb_nav": {
         "type": "mb_nav",
         "blocks": {
+          "595de3c7-a463-4255-a50a-4f4f9088df93": {
+            "type": "menu",
+            "settings": {
+              "title": "Menu",
+              "url": "",
+              "open_link": "_self",
+              "menu": "main-menu",
+              "lb": "",
+              "lb_cl": "",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
+          "29018372-18a1-4094-af0a-80cdc3a8d4e6": {
+            "type": "menu",
+            "settings": {
+              "title": "Categorias",
+              "url": "",
+              "open_link": "_self",
+              "menu": "footer",
+              "lb": "",
+              "lb_cl": "",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
           "mb_nav-7": {
             "type": "help",
             "settings": {
@@ -1301,6 +1327,8 @@
           }
         },
         "block_order": [
+          "595de3c7-a463-4255-a50a-4f4f9088df93",
+          "29018372-18a1-4094-af0a-80cdc3a8d4e6",
           "mb_nav-7",
           "mb_nav-8",
           "mb_nav-9"
@@ -1324,10 +1352,24 @@
               "image": "shopify:\/\/shop_images\/safe-life-jacket-20-non-stop-dogwear-890689.jpg",
               "icon": ""
             }
+          },
+          "ad49248e-fd55-43fb-a89f-f7e294663150": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "",
+              "url": "",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
           }
         },
         "block_order": [
-          "de042064-e817-4f90-b661-a8dcded68428"
+          "de042064-e817-4f90-b661-a8dcded68428",
+          "ad49248e-fd55-43fb-a89f-f7e294663150"
         ],
         "settings": {
         }
