@@ -238,7 +238,7 @@
       "settings": {
         "heading_fullwidth": false,
         "use_specify_image": true,
-        "parallax": false,
+        "parallax": true,
         "color": "#1e2a54",
         "overlay": 35,
         "padding": 100,
@@ -246,7 +246,7 @@
         "mg_b": 0,
         "mg_bmb": 0,
         "content_align": "t4s-text-center",
-        "bg_pos": "center bottom",
+        "bg_pos": "center center",
         "bg_repeat": "repeat-x",
         "bg_size": "cover",
         "use_cus_css": false,
