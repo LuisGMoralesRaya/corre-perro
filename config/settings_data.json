@@ -1311,113 +1311,23 @@
       "mb_cat": {
         "type": "mb_cat",
         "blocks": {
-          "37d41873-33b9-495f-b9e9-261690a26f44": {
+          "de042064-e817-4f90-b661-a8dcded68428": {
             "type": "cat",
             "settings": {
-              "cat": "women",
+              "cat": "accesorios",
               "title": "",
               "url": "",
               "menu": "",
               "lb": "",
               "lb_cl": "#e91e63",
-              "icons_op": "1",
-              "icon": "chair"
-            }
-          },
-          "02afbc74-7e86-47eb-a54c-4b782b9be1ec": {
-            "type": "cat",
-            "settings": {
-              "cat": "frontpage",
-              "title": "",
-              "url": "",
-              "menu": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "1",
-              "icon": "chair"
-            }
-          },
-          "a8e444e6-eaae-4fff-a0dd-f13d43abd5f0": {
-            "type": "cat",
-            "settings": {
-              "cat": "accessories",
-              "title": "",
-              "url": "",
-              "menu": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "1",
-              "icon": "chair"
-            }
-          },
-          "a613ac38-3b02-42a8-8d06-c7fab073ed0c": {
-            "type": "catimg",
-            "settings": {
-              "cat": "shoes",
-              "title": "",
-              "url": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "1",
-              "icon": "chair",
-              "cat1": "",
-              "url1": "",
-              "cat2": "",
-              "url2": "",
-              "cat3": "",
-              "url3": "",
-              "cat4": "",
-              "url4": "",
-              "cat5": "",
-              "url5": "",
-              "cat6": "",
-              "url6": "",
-              "cat7": "",
-              "url7": "",
-              "cat8": "",
-              "url8": "",
-              "cat9": "",
-              "url9": "",
-              "cat10": "",
-              "url10": "",
-              "cat11": "",
-              "url11": "",
-              "cat12": "",
-              "url12": "",
-              "cat13": "",
-              "url13": "",
-              "cat14": "",
-              "url14": "",
-              "cat15": "",
-              "url15": "",
-              "cat16": "",
-              "url16": "",
-              "cat17": "",
-              "url17": "",
-              "cat18": "",
-              "url18": "",
-              "cat19": "",
-              "url19": "",
-              "cat20": "",
-              "url20": "",
-              "cat21": "",
-              "url21": "",
-              "cat22": "",
-              "url22": "",
-              "cat23": "",
-              "url23": "",
-              "cat24": "",
-              "url24": "",
-              "cat25": "",
-              "url25": ""
+              "icons_op": "2",
+              "image": "shopify:\/\/shop_images\/safe-life-jacket-20-non-stop-dogwear-890689.jpg",
+              "icon": ""
             }
           }
         },
         "block_order": [
-          "37d41873-33b9-495f-b9e9-261690a26f44",
-          "02afbc74-7e86-47eb-a54c-4b782b9be1ec",
-          "a8e444e6-eaae-4fff-a0dd-f13d43abd5f0",
-          "a613ac38-3b02-42a8-8d06-c7fab073ed0c"
+          "de042064-e817-4f90-b661-a8dcded68428"
         ],
         "settings": {
         }
