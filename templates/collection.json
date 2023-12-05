@@ -238,7 +238,7 @@
       "settings": {
         "heading_fullwidth": false,
         "use_specify_image": true,
-        "parallax": true,
+        "parallax": false,
         "color": "#1e2a54",
         "overlay": 35,
         "padding": 100,
