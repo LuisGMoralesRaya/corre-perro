@@ -635,7 +635,7 @@
         "btn_vi": "always",
         "btn_owl": "simple",
         "btn_shape": "none",
-        "btn_cl": "dark",
+        "btn_cl": "custom1",
         "btn_size": "medium",
         "btn_hidden_mobile": false,
         "nav_dot": true,
