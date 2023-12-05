@@ -28,14 +28,24 @@
           "type": "price_review",
           "settings": {
             "price": "1",
-            "type_sale": "2",
+            "type_sale": "1",
             "tax_ship": false,
-            "rating": true,
+            "rating": false,
             "review_liquid": "",
             "size_price_pr": 24,
             "fw_price_pr": 400,
-            "price_color": "#ec0101",
+            "price_color": "#999999",
             "price_sale_color": "#1e2a54"
+          }
+        },
+        "575c219d-3677-4ecd-8e8c-541e8f5d7d54": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#ff9800",
+            "star_size": 18,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
           }
         },
         "description": {
@@ -189,6 +199,7 @@
       "block_order": [
         "title",
         "price_review",
+        "575c219d-3677-4ecd-8e8c-541e8f5d7d54",
         "description",
         "461ac1c5-11ed-48e3-8b80-39adec169ac4",
         "form",
