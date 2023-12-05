@@ -186,6 +186,7 @@
       "blocks": {
         "a61b5459-0dd8-4796-a9c8-e3f1ee42dfb9": {
           "type": "1",
+          "disabled": true,
           "settings": {
             "heading": "Page Heading",
             "fontf": "inherit",
