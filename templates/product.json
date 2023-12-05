@@ -127,10 +127,10 @@
             "show_vendor": false,
             "show_type": false,
             "show_sku": false,
-            "show_barcode": true,
+            "show_barcode": false,
             "show_available": true,
             "show_category": true,
-            "show_tags": false
+            "show_tags": true
           }
         },
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
