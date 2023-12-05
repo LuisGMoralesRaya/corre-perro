@@ -1312,8 +1312,8 @@
             "type": "menu",
             "settings": {
               "title": "Escribenos",
-              "url": "",
-              "open_link": "_self",
+              "url": "https:\/\/api.whatsapp.com\/send?phone=525611060000",
+              "open_link": "_blank",
               "menu": "",
               "lb": "",
               "lb_cl": "",
