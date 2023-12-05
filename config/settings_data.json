@@ -29,7 +29,7 @@
     "sale_badge_color": "#ff9800",
     "new_badge_color": "#1e2a54",
     "preorder_badge_color": "#ff9800",
-    "price_varies_style": "2",
+    "price_varies_style": "1",
     "type_qv": "2",
     "show_qty": false,
     "pr_border_style": "1",
