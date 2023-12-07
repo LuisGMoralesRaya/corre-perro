@@ -463,7 +463,7 @@
         "top_subheading": "",
         "tophead_mb": 30,
         "content_align": "text-start",
-        "align_vertical": true,
+        "align_vertical": false,
         "design_padding": "1",
         "source": "themes_icon",
         "icon_des": "default",
