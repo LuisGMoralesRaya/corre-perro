@@ -456,12 +456,12 @@
         "164620932047c7965f-3"
       ],
       "settings": {
-        "design_heading": "2",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
-        "top_heading": "Por que elegirnos",
+        "top_heading": "¿POR QUÉ CONFIAR TUS PRÓXIMAS AVENTURAS?",
         "icon_heading": "gem",
         "top_subheading": "",
-        "tophead_mb": 30,
+        "tophead_mb": 100,
         "content_align": "text-start",
         "align_vertical": false,
         "design_padding": "1",
@@ -557,8 +557,8 @@
         "4d6dfb1a-a4cd-4613-bf30-f2332becf213"
       ],
       "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-start",
+        "design_heading": "13",
+        "heading_align": "t4s-text-center",
         "top_heading": "¿QUÉ ACTIVIDAD HACES CON TU AMIGO DE 4 PATAS?",
         "icon_heading": "gem",
         "top_subheading": "",
@@ -596,7 +596,7 @@
     "1646035317ea8b6928": {
       "type": "featured-collection",
       "settings": {
-        "design_heading": "4",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
         "top_heading": "MULTIPLICA x2 LA FELICIDAD",
         "icon_heading": "gem",
@@ -881,9 +881,9 @@
     "164603686708691778": {
       "type": "featured-collection",
       "settings": {
-        "design_heading": "1",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
-        "top_heading": "BEST SELLER",
+        "top_heading": "LOS MÁS VENDIDOS",
         "icon_heading": "gem",
         "top_subheading": "Top sale in this week",
         "tophead_mb": 30,
@@ -953,9 +953,9 @@
     "16460368750174c54a": {
       "type": "blog-post",
       "settings": {
-        "design_heading": "2",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
-        "top_heading": "LATES FROM BLOG",
+        "top_heading": "APRENDE MÁS AQUÍ",
         "bt_lb": "Button label",
         "icon_heading": "gem",
         "top_subheading": "The freshest and most exciting news",
