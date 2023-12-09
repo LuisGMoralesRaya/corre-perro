@@ -1459,7 +1459,7 @@
           "mini_cart-6"
         ],
         "settings": {
-          "style": "2",
+          "style": "1",
           "pos": "2",
           "enable_pr": false,
           "enable_calc_ship": false,
