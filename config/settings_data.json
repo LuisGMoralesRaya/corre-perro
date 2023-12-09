@@ -53,6 +53,7 @@
     "show_search_suggest": true,
     "search_prs_suggest": "women",
     "show_search_hotkey": true,
+    "currency_code_enabled": true,
     "currency_type": "1",
     "size_currency": "sm",
     "round_currency": false,
