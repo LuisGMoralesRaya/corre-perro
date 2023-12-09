@@ -247,7 +247,7 @@
         "mg_bmb": 0,
         "content_align": "t4s-text-center",
         "bg_pos": "center center",
-        "bg_repeat": "no-repeat",
+        "bg_repeat": "repeat",
         "bg_size": "cover",
         "use_cus_css": false,
         "code_cus_css": ".SectionID {\nbackground-color:red\n}"
