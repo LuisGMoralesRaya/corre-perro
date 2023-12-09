@@ -2127,6 +2127,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "1027642515004851771": {
+        "type": "shopify:\/\/apps\/ysd-sticky-whatsapp-icon\/blocks\/app-embed\/c2286acb-9e94-4b67-a53a-7046abc8e849",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   }
