@@ -571,7 +571,7 @@
         "border_cl": "#e5e5e5",
         "collection_subtitle": "Products",
         "open_link": "_self",
-        "space_bottom": 20,
+        "space_bottom": 40,
         "space_bottom_mb": 10,
         "border": false,
         "item_rd": 0,
