@@ -1431,7 +1431,7 @@
           "mini_cart-5": {
             "type": "img",
             "settings": {
-              "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
+              "svg": "amazon_payments,american_express,apple_pay,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,master,paypal,shopify_pay,sofort,visa",
               "height": 30
             }
           },
