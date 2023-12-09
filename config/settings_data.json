@@ -1422,7 +1422,7 @@
           "mini_cart-4": {
             "type": "btnck",
             "settings": {
-              "btn_icon": false,
+              "btn_icon": true,
               "button_style": "default",
               "btn_cl": "primary",
               "button_effect": "default"
