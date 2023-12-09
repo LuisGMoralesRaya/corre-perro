@@ -431,7 +431,7 @@
         "164620932047c7965f-2": {
           "type": "shipping",
           "settings": {
-            "icon_themes": "refesh",
+            "icon_themes": "medal",
             "icon": "las la-undo-alt",
             "title": "GARANTÍA DE SATISFACCIÓN",
             "text": "<p>Si la talla no le queda, si tu equipo no les saca una sonrisa mientras corren, te devolvemos tu dinero<\/p>",
@@ -441,7 +441,7 @@
         "164620932047c7965f-3": {
           "type": "shipping",
           "settings": {
-            "icon_themes": "door-lock",
+            "icon_themes": "wallet",
             "icon": "las la-lock",
             "title": "PAGA A MESES SIN INTERSES",
             "text": "<p>Pagos seguros y pagos con facilidades para que puedas disfrutar de tu equipo de aventuras<\/p>",
