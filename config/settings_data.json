@@ -1,6 +1,7 @@
 {
   "current": {
     "use_rtl": "0",
+    "platform_email": "3",
     "header_design": "inline",
     "logo": "shopify:\/\/shop_images\/Corre_Perro_Amarillo_transparente.png",
     "logo_width": 95,
@@ -375,7 +376,7 @@
           "33eb929e-a001-4d96-82a0-5aab1aaabaea"
         ],
         "settings": {
-          "sticky": false,
+          "sticky": true,
           "collapse": true,
           "border_top": false,
           "enable_follow_on_shop": true,
