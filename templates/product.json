@@ -146,7 +146,7 @@
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
           "type": "tab_des",
           "settings": {
-            "title": "Conoce mas sobre el producto"
+            "title": "CONOCE MÁS DEL PRODUCTO"
           }
         },
         "e36839f5-0847-44e2-97d3-2885597bd1ff": {
@@ -405,6 +405,7 @@
     },
     "recently-viewed-products": {
       "type": "recently_viewed",
+      "disabled": true,
       "settings": {
         "show": true,
         "design_heading": "1",
