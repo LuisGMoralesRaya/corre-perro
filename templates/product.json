@@ -109,11 +109,11 @@
           "settings": {
             "al": "center",
             "mess": "",
-            "size": 12,
+            "size": 16,
             "source": "2",
             "wimg": 100,
             "svg": "visa,master,american_express,mercadopago,aplazo,kueskipay, paypal",
-            "height": 34
+            "height": 32
           }
         },
         "size_delivery_ask": {
