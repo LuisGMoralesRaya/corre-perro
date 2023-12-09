@@ -1303,19 +1303,6 @@
               "icon": ""
             }
           },
-          "29018372-18a1-4094-af0a-80cdc3a8d4e6": {
-            "type": "menu",
-            "settings": {
-              "title": "Categorias",
-              "url": "",
-              "open_link": "_self",
-              "menu": "canicross",
-              "lb": "",
-              "lb_cl": "",
-              "icons_op": "2",
-              "icon": ""
-            }
-          },
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86": {
             "type": "menu",
             "settings": {
@@ -1349,7 +1336,6 @@
         },
         "block_order": [
           "595de3c7-a463-4255-a50a-4f4f9088df93",
-          "29018372-18a1-4094-af0a-80cdc3a8d4e6",
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86",
           "mb_nav-7",
           "mb_nav-8",
