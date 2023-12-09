@@ -1401,11 +1401,13 @@
           },
           "mini_cart-1": {
             "type": "tax",
+            "disabled": true,
             "settings": {
             }
           },
           "mini_cart-2": {
             "type": "agree",
+            "disabled": true,
             "settings": {
             }
           },
