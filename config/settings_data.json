@@ -1431,7 +1431,7 @@
           "mini_cart-5": {
             "type": "img",
             "settings": {
-              "svg": "american_express,paypal,visa, mastercard",
+              "svg": "american_express,paypal,visa, master_card",
               "height": 30
             }
           },
