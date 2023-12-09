@@ -6,7 +6,7 @@
         "61658221-289a-451c-832e-472e370318ff": {
           "type": "1",
           "settings": {
-            "heading": "SHOPPING CART",
+            "heading": "Carrito de compras",
             "fontf": "2",
             "text_cl": "#ffffff",
             "text_fs": 20,
@@ -67,6 +67,7 @@
         },
         "2fef20ad-861c-4d15-aca6-4c26b6ee96f9": {
           "type": "tax",
+          "disabled": true,
           "settings": {
           }
         },
