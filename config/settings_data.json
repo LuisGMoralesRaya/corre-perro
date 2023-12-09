@@ -1434,7 +1434,7 @@
             "type": "img",
             "settings": {
               "svg": "american_express,paypal,visa, master,mercadopago",
-              "height": 30
+              "height": 28
             }
           },
           "mini_cart-6": {
