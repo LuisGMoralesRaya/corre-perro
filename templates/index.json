@@ -411,8 +411,8 @@
         "164620932047c7965f-0": {
           "type": "shipping",
           "settings": {
-            "icon_themes": "car",
-            "icon": "shipping-fast",
+            "icon_themes": "truck",
+            "icon": "",
             "title": "ENVIO NACIONAL GRATIS",
             "text": "<p>Envío gratis a toda la república mexicana en toda la tienda siempre<\/p>",
             "html": ""
