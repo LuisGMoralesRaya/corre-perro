@@ -556,11 +556,43 @@
               "pos_sub": "bottom",
               "pos": "left"
             }
+          },
+          "c0785693-8125-4d19-8eff-cae55becf8f9": {
+            "type": "drop",
+            "settings": {
+              "title": "Busca por Deporte",
+              "url": "",
+              "open_link": "_self",
+              "menu": "busca-por-deportes",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "1820a74f-801c-4c8a-8354-f180bfa43182": {
+            "type": "base",
+            "settings": {
+              "title": "Contenido Especial",
+              "url": "\/Contenido Especial",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
           }
         },
         "block_order": [
           "8ca48f7d-ac88-46cf-aee5-6ddd92032868",
-          "04f6b18b-99ce-49a2-b00f-2a1a92c8ec2f"
+          "04f6b18b-99ce-49a2-b00f-2a1a92c8ec2f",
+          "c0785693-8125-4d19-8eff-cae55becf8f9",
+          "1820a74f-801c-4c8a-8354-f180bfa43182"
         ],
         "settings": {
           "layout": "menu_split",
@@ -927,6 +959,17 @@
       },
       "mega-menu": {
         "type": "mega-menu",
+        "blocks": {
+          "dcd662db-f595-4d5f-b19a-64e239e3211e": {
+            "type": "mega",
+            "settings": {
+              "id": 2
+            }
+          }
+        },
+        "block_order": [
+          "dcd662db-f595-4d5f-b19a-64e239e3211e"
+        ],
         "settings": {
           "bg": ""
         }
