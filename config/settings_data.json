@@ -543,10 +543,31 @@
               "pos_sub": "bottom",
               "pos": "left"
             }
+          },
+          "75629782-674d-47d1-9dd9-40bd73d17916": {
+            "type": "mega",
+            "settings": {
+              "title": "Busca por Productos",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "enable_packery": true,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
           }
         },
         "block_order": [
-          "ae42911c-9c6a-42b0-bf5e-f2ad21d753e6"
+          "ae42911c-9c6a-42b0-bf5e-f2ad21d753e6",
+          "75629782-674d-47d1-9dd9-40bd73d17916"
         ],
         "settings": {
           "layout": "menu_split",
