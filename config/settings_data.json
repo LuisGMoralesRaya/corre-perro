@@ -254,7 +254,7 @@
             "type": "bl_col",
             "settings": {
               "col_heading": "Legales",
-              "menu": "footer",
+              "menu": "legales",
               "menu_style": "1",
               "col_border": "none",
               "col_dk": "2",
