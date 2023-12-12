@@ -147,7 +147,12 @@
     }
   
 }
-
+.spr-header-title{
+    color: white;
+}
+.spr-summary-actions-newreview{
+    color: white;
+}
 @media (max-width: 1024px) { 
 	.is--tab-design-mb__accordion .t4s-tab-wrapper > .t4s-tab__title[data-t4s-tab-item] {
 	    display: flex;
