@@ -1,0 +1,129 @@
+/* PageFly Element Styles */
+						.lcHmGL { word-break: break-word; }
+.lcHmGL span { font-weight: inherit; text-decoration: inherit; }
+.lcHmGL i { margin-right: 0.3em; }
+.jklmHY { padding: var(--pf-s-lg); }
+@media (max-width: 1199px) and (min-width: 992px) { 
+  .jklmHY { padding: var(--pf-s-md); }
+}
+@media (max-width: 991px) and (min-width: 768px) { 
+  .jklmHY { padding: var(--pf-s-sm); }
+}
+@media (max-width: 767px) { 
+  .jklmHY { padding: var(--pf-s-xs); }
+}
+.fTyjzF { position: relative; }
+.eYzxUD { margin: 0 calc(-1 * var(--pf-s-lg)); }
+@media (max-width: 1199px) and (min-width: 992px) { 
+  .eYzxUD { margin: 0 calc(-1 * var(--pf-s-md)); }
+}
+@media (max-width: 991px) and (min-width: 768px) { 
+  .eYzxUD { margin: 0 calc(-1 * var(--pf-s-sm)); }
+}
+@media (max-width: 767px) { 
+  .eYzxUD { margin: 0 calc(-1 * var(--pf-s-xs)); }
+}
+.bjKdkd__parallax { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; }
+.bjKdkd { padding: 15px 0px; position: relative; }
+.cbrLgP > span:last-child { line-height: inherit; display: block; margin-right: 0px !important; }
+#editor-dnd-wrapper .cbrLgP span + span[contenteditable] { display: block; }
+#editor-dnd-wrapper .cbrLgP span + span[contenteditable]:empty::after { display: inline; }
+.cbrLgP ol, .cbrLgP ul { list-style-position: inside; }
+.cbrLgP blockquote { font-size: inherit; }
+.fnmilh { display: inline-block; }
+.fnmilh[contenteditable="true"] { }
+.fnmilh { vertical-align: baseline; word-break: break-word; }
+.fnmilh:focus { outline: none; }
+.fnmilh::after { display: inline; }
+						/* PageFly Styles */
+						
+@media all {
+	.__pf .pf-d388b1ca {
+		text-align: center;
+	}
+	.__pf .pf-b1cadf32 {
+		text-align: center;
+	}
+	.__pf .pf-df3228cb {
+		text-align: center;
+	}
+	.__pf .pf-443fa30c {
+		background-color: rgb(244, 164, 64);
+	}
+	.__pf .pf-0983b070 {
+		text-align: center;
+	}
+	.__pf .pf-b070030b {
+		text-align: center;
+	}
+	.__pf .pf-030bb732 {
+		text-align: center;
+	}
+	.__pf .pf-3c28a056 {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-8836562a {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-b55a2196 {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-0b1db402 {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-73096825 {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-2984eb9e {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-f5656003 {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-a93ffc4c {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-42b0ef7a {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-d9e68faa {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-76f4ed11 {
+		font-family: "PT Sans Caption";
+		 font-size: 20px;
+		 text-decoration: underline;
+		 color: rgb(29, 42, 82);
+	}
+	.__pf .pf-167309e7 {
+		font-family: "PT Sans Caption";
+		 font-size: 18px;
+		 color: rgb(29, 42, 82);
+	}
+}
+						
