@@ -363,7 +363,7 @@
             "type": "payments",
             "settings": {
               "svg": "visa,master,paypal,american_express,mercadopago,aplazo,kueskipay",
-              "height": 30,
+              "height": 25,
               "hidden_mobile": false,
               "mgb": 20,
               "mgb_mb": 10
