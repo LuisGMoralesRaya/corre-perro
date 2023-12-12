@@ -543,7 +543,7 @@
           "04f6b18b-99ce-49a2-b00f-2a1a92c8ec2f": {
             "type": "drop",
             "settings": {
-              "title": "Dropdown",
+              "title": "Busca por Productos",
               "url": "",
               "open_link": "_self",
               "menu": "busca-por-productos",
