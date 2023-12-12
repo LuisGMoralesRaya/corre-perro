@@ -965,10 +965,21 @@
             "settings": {
               "id": 2
             }
+          },
+          "7e2f43ab-72a5-4941-bed3-f5c757fb0d24": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Busca por Productos",
+              "url": "",
+              "open_link": "_self",
+              "menu": "busca-por-productos",
+              "col": "4"
+            }
           }
         },
         "block_order": [
-          "dcd662db-f595-4d5f-b19a-64e239e3211e"
+          "dcd662db-f595-4d5f-b19a-64e239e3211e",
+          "7e2f43ab-72a5-4941-bed3-f5c757fb0d24"
         ],
         "settings": {
           "bg": ""
