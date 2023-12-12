@@ -530,7 +530,7 @@
           "ae42911c-9c6a-42b0-bf5e-f2ad21d753e6": {
             "type": "drop",
             "settings": {
-              "title": "Dropdown",
+              "title": "Busca por deportes",
               "url": "",
               "open_link": "_self",
               "menu": "busca-por-deportes",
