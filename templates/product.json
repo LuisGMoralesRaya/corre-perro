@@ -167,7 +167,7 @@
           "type": "tab_rivui",
           "settings": {
             "title": "DE DOGPORTISTA A DOGPORTISTA",
-            "review_liquid": ""
+            "review_liquid": "<!-- Start of Judge.me code --><div style='clear:both'><\/div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}<\/div><!-- End of Judge.me code -->"
           }
         },
         "94011ade-ec25-4d68-b37a-70660ede49dd": {
