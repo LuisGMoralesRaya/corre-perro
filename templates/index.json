@@ -1250,6 +1250,52 @@
         "mg_mb": "",
         "pd_mb": ""
       }
+    },
+    "a7c37066-7895-4c84-b6bc-708059673f2b": {
+      "type": "instagram_feed_api",
+      "settings": {
+        "mode": "2",
+        "acc": "",
+        "limit": 12,
+        "open_link": "_blank",
+        "layout_des": "2",
+        "round": 0,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "2",
+        "space_item": "0",
+        "space_item_mb": "0",
+        "image_ratio": "ratio1_1",
+        "image_size": "cover",
+        "image_position": "8",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1260,6 +1306,7 @@
     "16460362229768af39",
     "164603686708691778",
     "16460368750174c54a",
-    "1646209857bf69e76a"
+    "1646209857bf69e76a",
+    "a7c37066-7895-4c84-b6bc-708059673f2b"
   ]
 }
