@@ -1116,39 +1116,6 @@
       },
       "mb_cat": {
         "type": "mb_cat",
-        "blocks": {
-          "de042064-e817-4f90-b661-a8dcded68428": {
-            "type": "cat",
-            "settings": {
-              "cat": "accesorios",
-              "title": "",
-              "url": "",
-              "menu": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "image": "shopify:\/\/shop_images\/safe-life-jacket-20-non-stop-dogwear-890689.jpg",
-              "icon": ""
-            }
-          },
-          "ad49248e-fd55-43fb-a89f-f7e294663150": {
-            "type": "cat",
-            "settings": {
-              "cat": "",
-              "title": "",
-              "url": "",
-              "menu": "",
-              "lb": "",
-              "lb_cl": "#e91e63",
-              "icons_op": "2",
-              "icon": "las la-chair"
-            }
-          }
-        },
-        "block_order": [
-          "de042064-e817-4f90-b661-a8dcded68428",
-          "ad49248e-fd55-43fb-a89f-f7e294663150"
-        ],
         "settings": {
         }
       },
