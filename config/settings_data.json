@@ -291,7 +291,7 @@
           "footer-10": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Newsletter Signup",
+              "col_heading": "Inscríbase al boletín",
               "menu": "",
               "menu_style": "1",
               "col_border": "none",
@@ -310,7 +310,7 @@
           "footer-11": {
             "type": "custom_text",
             "settings": {
-              "text": "Subscribe to our newsletter and get 10% off your first purchase",
+              "text": "Suscríbete a nuestra newsletter y consigue un 10% de descuento en tu primera compra",
               "remove_br_tag": false,
               "tag": "p",
               "fontf": "inherit",
@@ -329,8 +329,16 @@
               "text_mgb_mobile": 18
             }
           },
+          "695e2b2b-9777-4104-8988-0312b5d3d458": {
+            "type": "html",
+            "settings": {
+              "html_content": "",
+              "hidden_mobile": false
+            }
+          },
           "footer-12": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "form_width": 0,
               "form_width_mb": 0,
@@ -380,6 +388,7 @@
           "footer-8",
           "footer-10",
           "footer-11",
+          "695e2b2b-9777-4104-8988-0312b5d3d458",
           "footer-12",
           "385c1474-1235-4a3d-b73c-9555b5f8dcfb",
           "33eb929e-a001-4d96-82a0-5aab1aaabaea"
