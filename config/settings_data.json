@@ -1306,6 +1306,19 @@
               "icon": "las la-address-card"
             }
           },
+          "90bc7f78-2cb8-403c-a5fd-821d18b874da": {
+            "type": "menu",
+            "settings": {
+              "title": "Busca por Productos",
+              "url": "",
+              "open_link": "_self",
+              "menu": "busca-por-productos",
+              "lb": "",
+              "lb_cl": "",
+              "icons_op": "2",
+              "icon": "las la-search"
+            }
+          },
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86": {
             "type": "menu",
             "settings": {
@@ -1329,6 +1342,7 @@
         },
         "block_order": [
           "595de3c7-a463-4255-a50a-4f4f9088df93",
+          "90bc7f78-2cb8-403c-a5fd-821d18b874da",
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86",
           "mb_nav-7"
         ],
