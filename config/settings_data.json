@@ -164,7 +164,7 @@
           "link_hover_cl": "#56cfe1",
           "border_cl": "#e6e6e6",
           "layout": "t4s-container-wrap",
-          "cl_bg": "",
+          "cl_bg": "#1e2a54",
           "cl_bg_gradient": "",
           "mg": "",
           "pd": "20px,,5px,",
