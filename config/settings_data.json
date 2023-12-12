@@ -1351,6 +1351,19 @@
               "icons_op": "2",
               "icon": "las la-gift"
             }
+          },
+          "6b67f124-d998-4007-9467-49fd3d5a1f07": {
+            "type": "menu",
+            "settings": {
+              "title": "Nuestra Historia",
+              "url": "shopify:\/\/pages\/nuestra-historia",
+              "open_link": "_self",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "",
+              "icons_op": "2",
+              "icon": "las la-address-card"
+            }
           }
         },
         "block_order": [
@@ -1358,7 +1371,8 @@
           "cb0a3820-2c08-4e7e-8ba4-ddd90fe573e0",
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86",
           "mb_nav-7",
-          "aef227d2-d05c-4191-879f-3c592e101adb"
+          "aef227d2-d05c-4191-879f-3c592e101adb",
+          "6b67f124-d998-4007-9467-49fd3d5a1f07"
         ],
         "settings": {
         }
