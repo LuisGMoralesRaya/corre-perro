@@ -55,6 +55,7 @@
     "search_prs_suggest": "women",
     "show_search_hotkey": true,
     "currency_code_enabled": true,
+    "auto_currency": false,
     "currency_type": "1",
     "size_currency": "sm",
     "supported_currencies": "EUR - EUR | USD - USD | GBP - GBP MX - MX |",
