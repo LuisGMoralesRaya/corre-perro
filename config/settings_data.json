@@ -975,11 +975,29 @@
               "menu": "busca-por-productos",
               "col": "4"
             }
+          },
+          "cb345f0d-b252-4920-8ade-1c631c2f8fa7": {
+            "type": "mega",
+            "settings": {
+              "id": 3
+            }
+          },
+          "05ff5a32-21ff-4891-ac56-5242886b3db7": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Busca por deportes",
+              "url": "",
+              "open_link": "_self",
+              "menu": "busca-por-deportes",
+              "col": "4"
+            }
           }
         },
         "block_order": [
           "dcd662db-f595-4d5f-b19a-64e239e3211e",
-          "7e2f43ab-72a5-4941-bed3-f5c757fb0d24"
+          "7e2f43ab-72a5-4941-bed3-f5c757fb0d24",
+          "cb345f0d-b252-4920-8ade-1c631c2f8fa7",
+          "05ff5a32-21ff-4891-ac56-5242886b3db7"
         ],
         "settings": {
           "bg": ""
