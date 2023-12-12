@@ -12,8 +12,14 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "326e237f-6ebf-448f-9e7c-1cf5232ee25b": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "575c219d-3677-4ecd-8e8c-541e8f5d7d54": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
           "settings": {
             "stars_fill_color": "#ff9800",
             "star_size": 15,
@@ -198,6 +204,7 @@
         }
       },
       "block_order": [
+        "326e237f-6ebf-448f-9e7c-1cf5232ee25b",
         "575c219d-3677-4ecd-8e8c-541e8f5d7d54",
         "title",
         "price_review",
