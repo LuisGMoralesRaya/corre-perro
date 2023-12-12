@@ -1310,7 +1310,7 @@
             "type": "menu",
             "settings": {
               "title": "Escribenos",
-              "url": "https:\/\/api.whatsapp.com\/send?phone=528125951801",
+              "url": "https:\/\/api.whatsapp.com\/send?phone=+528125951801&text=Quiero%20asesor%C3%ADa%20personalizada%20para%20saber%20que%20kit%20o%20art%C3%ADculo%20elegir%20para%20mi%20amigo%20de%204%20patas%20%C2%BFme%20ayudas%20por%20favor?",
               "open_link": "_blank",
               "menu": "",
               "lb": "",
