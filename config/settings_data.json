@@ -253,7 +253,7 @@
           "footer-6": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Infomation",
+              "col_heading": "Legales",
               "menu": "footer",
               "menu_style": "1",
               "col_border": "none",
@@ -272,7 +272,7 @@
           "footer-8": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Useful links",
+              "col_heading": "Información",
               "menu": "",
               "menu_style": "1",
               "col_border": "none",
