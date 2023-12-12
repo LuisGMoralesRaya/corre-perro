@@ -82,7 +82,7 @@
             "text_shadow": false,
             "hidden_mobile": false,
             "text_fs_mb": 15,
-            "text_lh_mb": 25,
+            "text_lh_mb": 16,
             "text_ls_mb": 0,
             "text_mgb_mobile": 5,
             "animation": "fadeInRight"
