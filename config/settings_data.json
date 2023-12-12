@@ -934,6 +934,17 @@
       },
       "mega-menu": {
         "type": "mega-menu",
+        "blocks": {
+          "45c2fcc9-f96a-4fa5-b531-473a1ec7cc7a": {
+            "type": "mega",
+            "settings": {
+              "id": 1
+            }
+          }
+        },
+        "block_order": [
+          "45c2fcc9-f96a-4fa5-b531-473a1ec7cc7a"
+        ],
         "settings": {
           "bg": ""
         }
