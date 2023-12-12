@@ -176,30 +176,11 @@
             "review_liquid": "<!-- Start of Judge.me code --><div style='clear:both'><\/div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}<\/div><!-- End of Judge.me code -->"
           }
         },
-        "94011ade-ec25-4d68-b37a-70660ede49dd": {
-          "type": "social",
-          "disabled": true,
+        "01210b64-4eb2-4abd-bc12-a93596a6f666": {
+          "type": "tab_liquid",
           "settings": {
-            "socials_align": "start",
-            "social_mode": "2",
-            "social_style": "1",
-            "social_size": "extra_small",
-            "bd_radius": 0,
-            "use_color_set": true,
-            "icon_cl": "#222222",
-            "bg_cl": "#00badb",
-            "space_h_item": "20",
-            "space_v_item": "5",
-            "space_h_item_mb": "20",
-            "space_v_item_mb": "4"
-          }
-        },
-        "bded529b-9b8f-4d5c-8f04-5de0b22e627d": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Collapsible tab",
-            "content": "",
-            "page": ""
+            "title": "Tab Custom Liquid",
+            "custom_liquid": "<!-- Start of Judge.me code --><div style='clear:both'><\/div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}<\/div><!-- End of Judge.me code -->"
           }
         }
       },
@@ -218,8 +199,7 @@
         "e36839f5-0847-44e2-97d3-2885597bd1ff",
         "754ad4a0-7308-4a3e-b325-e2f2c0b85d4c",
         "56e67368-7424-4d73-8f14-dacdda4c59be",
-        "94011ade-ec25-4d68-b37a-70660ede49dd",
-        "bded529b-9b8f-4d5c-8f04-5de0b22e627d"
+        "01210b64-4eb2-4abd-bc12-a93596a6f666"
       ],
       "settings": {
         "pr_layout": "default",
