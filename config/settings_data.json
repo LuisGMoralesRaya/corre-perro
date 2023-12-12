@@ -417,7 +417,7 @@
           "heading_cl": "#1e2a54",
           "text_cl": "#1e2a54",
           "link_cl": "#1e2a54",
-          "link_hover_cl": "#56cfe1",
+          "link_hover_cl": "#fff",
           "border_cl": "#1e2a54",
           "layout": "t4s-container-wrap",
           "cl_bg": "#ff9800",
