@@ -142,6 +142,8 @@
    */
     .t4s-tab__title .t4s-tab__text {
         padding: 10px 20px;
+        color: white;
+
     }
   
 }
