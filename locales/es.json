@@ -6,19 +6,19 @@
     },
     "lookbook": {
       "title": {
-        "product": "",
-        "text": ""
+        "product": "Producto",
+        "text": "Texto"
       }
     },
     "countdown_text": {
-      "day": "",
-      "day_plural": "",
-      "hr": "",
-      "hr_plural": "",
-      "min": "",
-      "min_plural": "",
-      "sec": "",
-      "sec_plural": ""
+      "day": "Dia",
+      "day_plural": "Días",
+      "hr": "hora",
+      "hr_plural": "horas",
+      "min": "min",
+      "min_plural": "mins",
+      "sec": "seg",
+      "sec_plural": "segs"
     },
     "newsletter_form": {
       "email_placeholder": "",
