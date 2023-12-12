@@ -971,29 +971,13 @@
               "id": 1
             }
           },
-          "8c120543-3f5a-4c9a-a73d-f2090ca50b7c": {
-            "type": "pr",
+          "cbe77fbe-6d31-43c5-9c96-815ba41ca870": {
+            "type": "link",
             "settings": {
-              "collection": "arneses-para-canicross-corre-perro-mexico",
-              "product_des": "1",
-              "show_vendor": false,
-              "use_cdt": false,
-              "image_ratio": "rationt",
-              "image_size": "cover",
-              "image_position": "8",
-              "content_align": "default",
-              "limit": 8,
-              "col_dk": "3",
-              "space_h_item": "30",
-              "space_v_item": "30",
-              "layout_des": "2",
-              "nav_btn": false,
-              "btn_vi": "hover",
-              "btn_owl": "default",
-              "btn_shape": "none",
-              "btn_cl": "dark",
-              "btn_size": "small",
-              "btn_hidden_mobile": true,
+              "tt_hd": "Heading",
+              "url": "",
+              "open_link": "_self",
+              "menu": "busca-por-productos",
               "col": "4"
             }
           }
@@ -1002,7 +986,7 @@
           "45c2fcc9-f96a-4fa5-b531-473a1ec7cc7a",
           "2a63ddc2-e6b3-4758-ac32-ce17b2d4c18a",
           "9ee9c415-e9a3-4b0a-82eb-c0a49af72f1c",
-          "8c120543-3f5a-4c9a-a73d-f2090ca50b7c"
+          "cbe77fbe-6d31-43c5-9c96-815ba41ca870"
         ],
         "settings": {
           "bg": ""
