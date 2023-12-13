@@ -237,7 +237,7 @@
           "footer-4": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Categorias",
+              "col_heading": "Soporte",
               "menu": "footer",
               "menu_style": "1",
               "col_border": "none",
