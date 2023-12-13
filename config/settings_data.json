@@ -275,7 +275,7 @@
           "footer-8": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Información",
+              "col_heading": "Acera de Nosotros",
               "menu": "informaci-n",
               "menu_style": "1",
               "col_border": "none",
