@@ -81,7 +81,7 @@
         "683a32d9-dc0c-4210-b04b-08b2c90dff29": {
           "type": "btnck",
           "settings": {
-            "btn_icon": false,
+            "btn_icon": true,
             "button_style": "default",
             "btn_size": "large",
             "btn_cl": "primary",
