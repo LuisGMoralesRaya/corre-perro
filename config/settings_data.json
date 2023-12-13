@@ -314,7 +314,7 @@
             "type": "custom_text",
             "settings": {
               "text": "Suscríbete a la comunidad de DOGportistas y consigue un 5% de descuento en tu primera compra",
-              "remove_br_tag": false,
+              "remove_br_tag": true,
               "tag": "p",
               "fontf": "inherit",
               "text_cl": "#1e2a54",
