@@ -161,7 +161,7 @@
         "b069b77f-6f77-41d8-839e-5f21d12217db": {
           "type": "custom_text",
           "settings": {
-            "text": "Un perro activo es un perro feliz, lo que significa que el dueño también lo es",
+            "text": "",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "2",
@@ -184,7 +184,7 @@
         "ff196d3a-1239-4855-9969-90603c8cb52d": {
           "type": "custom_text",
           "settings": {
-            "text": "Lookbook Collection",
+            "text": "Un perro activo es un perro feliz, lo que significa que el dueño también lo es",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "3",
