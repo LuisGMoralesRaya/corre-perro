@@ -106,7 +106,7 @@
             "fwbutton": 700,
             "button_ls": 0,
             "button_mh": 40,
-            "button_bdr": 4,
+            "button_bdr": 10,
             "button_pd_lr": 32,
             "button_mgb": 0,
             "hidden_mobile": false,
