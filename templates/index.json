@@ -881,11 +881,11 @@
     "164603686708691778": {
       "type": "featured-collection",
       "settings": {
-        "design_heading": "6",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
         "top_heading": "LOS MÁS VENDIDOS",
         "icon_heading": "gem",
-        "top_subheading": "a lo largo de la historia",
+        "top_subheading": "A LO LARGO DE HISTORIA",
         "tophead_mb": 30,
         "head_btn_label": "View All",
         "head_btn_url": "",
@@ -893,7 +893,7 @@
         "head_btn_style": "default",
         "head_btn_size": "medium",
         "head_btn_cl": "dark",
-        "head_btn_effect": "default",
+        "head_btn_effect": "rectangle-out",
         "head_btn_hidden_mb": false,
         "collection": "trekking",
         "product_des": "7",
