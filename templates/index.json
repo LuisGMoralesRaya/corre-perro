@@ -515,7 +515,7 @@
         "1646035040fee424aa-1": {
           "type": "collection_item",
           "settings": {
-            "collection": "accessories",
+            "collection": "traildog",
             "image": "shopify:\/\/shop_images\/canitrail_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_2-min.jpg",
             "collection_title": "Canitrail",
             "collection_link": ""
@@ -542,7 +542,7 @@
         "4d6dfb1a-a4cd-4613-bf30-f2332becf213": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "paseos-relajado",
             "image": "shopify:\/\/shop_images\/canijogging_actividades_con_perro_corre_perro_mexico_non_stop_dogwear_6.jpg",
             "collection_title": "Canijogging",
             "collection_link": ""
