@@ -1294,7 +1294,7 @@
           "settings": {
             "collection": "arneses-para-canicross-corre-perro-mexico",
             "icon": "las la-gem",
-            "collection_title": "Collection",
+            "collection_title": "Arneses para perros",
             "collection_link": ""
           }
         },
@@ -1353,11 +1353,11 @@
         "fee2b8eb-a2f6-454d-a75a-4cf7776dafa6"
       ],
       "settings": {
-        "design_heading": "1",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
-        "top_heading": "Collections list",
+        "top_heading": "CATEGORÍAS DE TUS ARTÍCULOS DEPORTIVOS",
         "icon_heading": "las la-gem",
-        "top_subheading": "",
+        "top_subheading": "PERSONALIZADA TU KIT A TU MANERA",
         "tophead_mb": 30,
         "head_btn_label": "View All",
         "head_btn_url": "",
