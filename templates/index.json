@@ -1095,6 +1095,91 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "426d0354-e9ff-42d1-9d96-7d17a6b3c023": {
+      "type": "logo_list",
+      "blocks": {
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-1": {
+          "type": "logo_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/international_canicross_federation_icf_correperromx_86e913b7-e639-4edf-9a8b-6bff972948bc.jpg",
+            "url": ""
+          }
+        },
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-2": {
+          "type": "logo_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo.jpg",
+            "url": ""
+          }
+        },
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-3": {
+          "type": "logo_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-09_at_16.39.20.jpg",
+            "url": ""
+          }
+        },
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-4": {
+          "type": "logo_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/el_economista_mushing_corre_perro_mx.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-1",
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-2",
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-3",
+        "template--15320391024755__426d0354-e9ff-42d1-9d96-7d17a6b3c023-logo_item-4"
+      ],
+      "settings": {
+        "design_heading": "13",
+        "heading_align": "t4s-text-center",
+        "top_heading": "VISTO Y AVALADO POR PRENSA Y FEDERACIONES",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "img_effect": "zoom",
+        "b_effect": "border-run",
+        "open_link": "_blank",
+        "layout_des": "2",
+        "click_image": "data-goto",
+        "nav_thumbs": true,
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_item": "30",
+        "space_item_mb": "30",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1105,6 +1190,7 @@
     "16460362229768af39",
     "164603686708691778",
     "16460368750174c54a",
-    "a7c37066-7895-4c84-b6bc-708059673f2b"
+    "a7c37066-7895-4c84-b6bc-708059673f2b",
+    "426d0354-e9ff-42d1-9d96-7d17a6b3c023"
   ]
 }
