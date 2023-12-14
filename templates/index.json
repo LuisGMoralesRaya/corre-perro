@@ -1180,6 +1180,99 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "b29317e7-eb8c-4159-89a1-dd78ba000972": {
+      "type": "testimonials",
+      "blocks": {
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-1": {
+          "type": "quote",
+          "settings": {
+            "image_avata": "shopify:\/\/shop_images\/luis_tobon_testimonio_corre_perro_resenas.jpg",
+            "heading": "Increible equipo",
+            "content": "<p><strong>Black ama el arnés free motion, ya que este no se gira al correr, cuando tira con mayor fuerza su rendimiento mejora pues se adapta perfecto al cuello y los hombros.<br\/>El acolchado es ideal para distancias explosivas como 5km o demandantes como 10km<\/strong><\/p><p><strong>100% Recomendado para cualquier tipo de aventura 🔥🐺<\/strong><\/p>",
+            "title": "Luis Tobon",
+            "pos": "",
+            "rating": 5
+          }
+        },
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-2": {
+          "type": "quote",
+          "settings": {
+            "image_avata": "shopify:\/\/shop_images\/giselle_yanez_testimonio_corre_perro_mexico_resenas.jpg",
+            "heading": "Una locura de artículos",
+            "content": "<p>Yo tenía años corriendo con mi perrita y siempre por alguna razón terminaba con algún dolor o molestia, cuando me prestaron por primera vez todo el kit para probar, quedé enamorada, la comodidad, la libertad, pero sobre todo la forma más adecuada se correr fueron las cosas que sentimos desde el día uno. Obviamente nos compramos nuestro kit y estoy encantada, Key también, desde que ve su arnés ya se emociona para ir a correr. Definitivamente se los recomiendo aunque estén iniciando, será una gran inversión y para toda la vida, yo ya tengo unos dos años con el mío y siguen intactos. Gracias ☺️<\/p>",
+            "title": "Giselle Yañez",
+            "pos": "",
+            "rating": 5
+          }
+        },
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-3": {
+          "type": "quote",
+          "settings": {
+            "image_avata": "shopify:\/\/shop_images\/sergio_testimonio_corre_perro_mexico_resenas.jpg",
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "title": "Author's name",
+            "pos": "",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-1",
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-2",
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-3"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "Testimonials",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "ter_des": "1",
+        "cl_name": "#222222",
+        "cl_content": "#878787",
+        "cl_bd": "",
+        "cl_bg_item": "",
+        "bdr": 0,
+        "content_align": "text-start",
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout_des": "1",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1191,6 +1284,7 @@
     "164603686708691778",
     "16460368750174c54a",
     "a7c37066-7895-4c84-b6bc-708059673f2b",
-    "426d0354-e9ff-42d1-9d96-7d17a6b3c023"
+    "426d0354-e9ff-42d1-9d96-7d17a6b3c023",
+    "b29317e7-eb8c-4159-89a1-dd78ba000972"
   ]
 }
