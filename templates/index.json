@@ -828,7 +828,7 @@
         "164603622209bd8d44-5": {
           "type": "custom_text",
           "settings": {
-            "text": "UP TO 70%",
+            "text": "UP TO 20%",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
@@ -900,7 +900,7 @@
         "show_vendor": false,
         "use_cdt": false,
         "image_ratio": "ratioadapt",
-        "image_size": "cover",
+        "image_size": "contain",
         "image_position": "8",
         "content_align": "default",
         "limit": 8,
