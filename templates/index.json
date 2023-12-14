@@ -479,7 +479,7 @@
         "source": "themes_icon",
         "icon_des": "default",
         "icon_size": "large",
-        "col_dk": "4",
+        "col_dk": "5",
         "col_tb": "2",
         "col_mb": "1",
         "border": true,
