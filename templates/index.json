@@ -447,13 +447,24 @@
             "text": "<p>Pagos seguros y pagos con facilidades para que puedas disfrutar de tu equipo de aventuras<\/p>",
             "html": ""
           }
+        },
+        "c02a0cd0-7313-4f6e-89e6-b12a56d10d1c": {
+          "type": "shipping",
+          "settings": {
+            "icon_themes": "like",
+            "icon": "",
+            "title": "CON LA CONFIANZA DE MILES",
+            "text": "<p>Avalados por Federación Mexicana de Mushing y Perros de Tiro. Federación Internacional de Canicross<\/p>",
+            "html": ""
+          }
         }
       },
       "block_order": [
         "164620932047c7965f-0",
         "164620932047c7965f-1",
         "164620932047c7965f-2",
-        "164620932047c7965f-3"
+        "164620932047c7965f-3",
+        "c02a0cd0-7313-4f6e-89e6-b12a56d10d1c"
       ],
       "settings": {
         "design_heading": "13",
