@@ -606,7 +606,7 @@
         "head_btn_url": "",
         "head_btn_icon": true,
         "head_btn_style": "bordered",
-        "head_btn_size": "small",
+        "head_btn_size": "medium",
         "head_btn_cl": "dark",
         "head_btn_effect": "default",
         "head_btn_hidden_mb": false,
