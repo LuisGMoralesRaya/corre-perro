@@ -1189,7 +1189,7 @@
           "settings": {
             "image_avata": "shopify:\/\/shop_images\/luis_tobon_testimonio_corre_perro_resenas.jpg",
             "heading": "Increible equipo",
-            "content": "<p><strong>Black ama el arnés free motion, ya que este no se gira al correr, cuando tira con mayor fuerza su rendimiento mejora pues se adapta perfecto al cuello y los hombros.<br\/>El acolchado es ideal para distancias explosivas como 5km o demandantes como 10km<\/strong><\/p><p><strong>100% Recomendado para cualquier tipo de aventura 🔥🐺<\/strong><\/p>",
+            "content": "<p><strong>Black ama el arnés free motion, ya que este no se gira al correr, cuando tira con mayor fuerza su rendimiento mejora pues se adapta perfecto al cuello y los hombros.<br\/>El acolchado es ideal para distancias explosivas como 5km o demandantes como 10km. 100% Recomendado para cualquier tipo de aventura 🔥🐺<\/strong><\/p>",
             "title": "Luis Tobon",
             "pos": "",
             "rating": 5
@@ -1200,7 +1200,7 @@
           "settings": {
             "image_avata": "shopify:\/\/shop_images\/giselle_yanez_testimonio_corre_perro_mexico_resenas.jpg",
             "heading": "Una locura de artículos",
-            "content": "<p>Yo tenía años corriendo con mi perrita y siempre por alguna razón terminaba con algún dolor o molestia, cuando me prestaron por primera vez todo el kit para probar, quedé enamorada, la comodidad, la libertad, pero sobre todo la forma más adecuada se correr fueron las cosas que sentimos desde el día uno. Obviamente nos compramos nuestro kit y estoy encantada, Key también, desde que ve su arnés ya se emociona para ir a correr. Definitivamente se los recomiendo aunque estén iniciando, será una gran inversión y para toda la vida, yo ya tengo unos dos años con el mío y siguen intactos. Gracias ☺️<\/p>",
+            "content": "<p>Tenía años corriendo con mi perrita y siempre por alguna razón terminaba con algún dolor o molestia, cuando probé por primera vez todo el kit, quedé enamorada, la comodidad, la libertad, pero sobre todo la forma más adecuada de correr. <\/p><p>Estamos encantadas, Key desde que ve su arnés ya se emociona para ir a correr. Te lo recomiendo aunque estén iniciando, será una gran inversión.☺️<\/p>",
             "title": "Giselle Yañez",
             "pos": "",
             "rating": 5
@@ -1211,8 +1211,8 @@
           "settings": {
             "image_avata": "shopify:\/\/shop_images\/sergio_testimonio_corre_perro_mexico_resenas.jpg",
             "heading": "",
-            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "title": "Author's name",
+            "content": "<p>¡Un equipo necesario para poder disfrutar al 100% de correr junto a tu perro! <\/p><p>Es libertad para ambos por que no te tienes que andar preocupando si se te cae el cinturón, si se rompe la correa, si dañas a tu perro por usar un mal arnés, etc. Es un cambio de jugada a la hora de correr con tu perro en cualquier lado.<\/p>",
+            "title": "Sergio Vazquez",
             "pos": "",
             "rating": 5
           }
@@ -1224,11 +1224,11 @@
         "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-3"
       ],
       "settings": {
-        "design_heading": "1",
+        "design_heading": "13",
         "heading_align": "t4s-text-center",
-        "top_heading": "Testimonials",
+        "top_heading": "LO QUE DICEN LOS DOGportistas",
         "icon_heading": "las la-gem",
-        "top_subheading": "",
+        "top_subheading": "ELLOS YA CAMBIARON LA FORMA DE CORRER",
         "tophead_mb": 30,
         "ter_des": "1",
         "cl_name": "#222222",
