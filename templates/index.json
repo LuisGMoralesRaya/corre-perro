@@ -573,7 +573,7 @@
         "open_link": "_self",
         "space_bottom": 20,
         "space_bottom_mb": 10,
-        "border": false,
+        "border": true,
         "item_rd": 0,
         "item_rd_unit": "%",
         "img_effect": "zoom",
