@@ -933,7 +933,7 @@
         "enable_bar_lm": true,
         "btn_icon": false,
         "button_style": "default",
-        "btns_size": "medium",
+        "btns_size": "extra-small",
         "btns_cl": "default",
         "button_effect": "fade",
         "btn_pos": "t4s-text-center",
