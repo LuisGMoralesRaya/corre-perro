@@ -443,7 +443,7 @@
           "settings": {
             "icon_themes": "wallet",
             "icon": "las la-lock",
-            "title": "PAGA A MESES SIN INTERSES",
+            "title": "PAGA A 3,6 MESES SIN INTERSES",
             "text": "<p>Pagos seguros y pagos con facilidades para que puedas disfrutar de tu equipo de aventuras<\/p>",
             "html": ""
           }
@@ -460,7 +460,7 @@
         "heading_align": "t4s-text-center",
         "top_heading": "¿POR QUÉ CONFIAN SUS PRÓXIMAS AVENTURAS CON NOSOTROS?",
         "icon_heading": "",
-        "top_subheading": "",
+        "top_subheading": "¿POR QUÉ ELEGIRNOS?",
         "tophead_mb": 30,
         "content_align": "text-center",
         "align_vertical": true,
@@ -561,7 +561,7 @@
         "heading_align": "t4s-text-center",
         "top_heading": "¿QUÉ ACTIVIDAD HACES CON TU AMIGO DE 4 PATAS?",
         "icon_heading": "gem",
-        "top_subheading": "",
+        "top_subheading": "CUÁL DISFRUTAN MÁS JUNTOS",
         "tophead_mb": 100,
         "collection_des": "3",
         "title_cl": "#ffffff",
