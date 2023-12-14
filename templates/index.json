@@ -935,7 +935,7 @@
         "button_style": "default",
         "btns_size": "extra-small",
         "btns_cl": "dark",
-        "button_effect": "fade",
+        "button_effect": "default",
         "btn_pos": "t4s-text-center",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
