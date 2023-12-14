@@ -1210,9 +1210,20 @@
           "type": "quote",
           "settings": {
             "image_avata": "shopify:\/\/shop_images\/sergio_testimonio_corre_perro_mexico_resenas.jpg",
-            "heading": "",
+            "heading": "Un cambio de jugada",
             "content": "<p>¡Un equipo necesario para poder disfrutar al 100% de correr junto a tu perro! <\/p><p>Es libertad para ambos por que no te tienes que andar preocupando si se te cae el cinturón, si se rompe la correa, si dañas a tu perro por usar un mal arnés, etc. Es un cambio de jugada a la hora de correr con tu perro en cualquier lado.<\/p>",
             "title": "Sergio Vazquez",
+            "pos": "",
+            "rating": 5
+          }
+        },
+        "ceccdaf4-936a-424b-b268-3ba04a3a8444": {
+          "type": "quote",
+          "settings": {
+            "image_avata": "shopify:\/\/shop_images\/396706841_753371240136819_2369587778449672557_n.jpg",
+            "heading": "Fenomenal el kit de productos",
+            "content": "<p>Un muy buen paquete, en los productos, la calidad y detalles resaltan bastante, a mi perro Rocky le quedó de maravilla el arnés, el cinturón me ajusto perfecto a mis caderas y la línea que es elástica al 100% se siente resistente, en el tema de costos si presenta un ahorro si lo compras en paquete, en comparación de comprar las cosas por separado, es una buena inversión, ¡a mi me permitió ser campeón nacional en canicross!<\/p>",
+            "title": "Baruc Perez",
             "pos": "",
             "rating": 5
           }
@@ -1221,7 +1232,8 @@
       "block_order": [
         "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-1",
         "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-2",
-        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-3"
+        "template--15320391024755__b29317e7-eb8c-4159-89a1-dd78ba000972-quote-3",
+        "ceccdaf4-936a-424b-b268-3ba04a3a8444"
       ],
       "settings": {
         "design_heading": "13",
@@ -1236,8 +1248,8 @@
         "cl_bd": "",
         "cl_bg_item": "",
         "bdr": 0,
-        "content_align": "text-start",
-        "col_dk": "3",
+        "content_align": "text-center",
+        "col_dk": "4",
         "col_tb": "2",
         "col_mb": "1",
         "space_h_item": "30",
