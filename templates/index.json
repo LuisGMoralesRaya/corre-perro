@@ -1025,6 +1025,22 @@
     },
     "a7c37066-7895-4c84-b6bc-708059673f2b": {
       "type": "instagram_feed_api",
+      "blocks": {
+        "6438cf61-30b5-42aa-8b30-079d9d32dd6e": {
+          "type": "1",
+          "settings": {
+            "design_heading": "1",
+            "heading_align": "t4s-text-center",
+            "top_heading": "Conéctate con más DOGportistas en INSTAGRAM",
+            "icon_heading": "las la-gem",
+            "top_subheading": "",
+            "tophead_mb": 30
+          }
+        }
+      },
+      "block_order": [
+        "6438cf61-30b5-42aa-8b30-079d9d32dd6e"
+      ],
       "settings": {
         "mode": "2",
         "acc": "",
