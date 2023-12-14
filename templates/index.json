@@ -676,6 +676,145 @@
         "code_cus_css": ".SectionID {\nbackground-color:red\n}"
       }
     },
+    "7af64d3f-b3d2-409f-a45c-6f1a585ead01": {
+      "type": "collections-list",
+      "blocks": {
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "arneses-para-canicross-corre-perro-mexico",
+            "icon": "las la-gem",
+            "collection_title": "Arneses para perros",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "cinturones",
+            "icon": "las la-gem",
+            "collection_title": "Cinturones para humanos",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "collares",
+            "icon": "las la-gem",
+            "collection_title": "Collares para perros activos",
+            "collection_link": ""
+          }
+        },
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "correas",
+            "icon": "las la-gem",
+            "collection_title": "Correas para toda actividad",
+            "collection_link": ""
+          }
+        },
+        "e611029c-6aa9-4243-8b81-0817b0ff0e10": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "kits-starter-packs",
+            "icon": "las la-gem",
+            "collection_title": "Kit de aventuras personalizados",
+            "collection_link": ""
+          }
+        },
+        "fee2b8eb-a2f6-454d-a75a-4cf7776dafa6": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "accesorios",
+            "icon": "las la-gem",
+            "collection_title": "Complementos",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-1",
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-2",
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-3",
+        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-4",
+        "e611029c-6aa9-4243-8b81-0817b0ff0e10",
+        "fee2b8eb-a2f6-454d-a75a-4cf7776dafa6"
+      ],
+      "settings": {
+        "design_heading": "13",
+        "heading_align": "t4s-text-center",
+        "top_heading": "CATEGORÍAS DE TUS ARTÍCULOS DEPORTIVOS",
+        "icon_heading": "las la-gem",
+        "top_subheading": "PERSONALIZADA TU KIT A TU MANERA",
+        "tophead_mb": 30,
+        "head_btn_label": "View All",
+        "head_btn_url": "",
+        "head_btn_icon": false,
+        "head_btn_style": "default",
+        "head_btn_size": "medium",
+        "head_btn_cl": "dark",
+        "head_btn_effect": "default",
+        "head_btn_hidden_mb": false,
+        "collection_des": "1",
+        "title_cl": "#ffffff",
+        "title_cl_hover": "#222222",
+        "subtitle_cl": "#878787",
+        "count_cl": "#222222",
+        "border_cl": "#e5e5e5",
+        "collection_subtitle": "Products",
+        "open_link": "_self",
+        "source": "image",
+        "space_bottom": 20,
+        "space_bottom_tb": 20,
+        "space_bottom_mb": 10,
+        "border": false,
+        "item_pd": 0,
+        "item_rd": 0,
+        "img_effect": "zoom",
+        "b_effect": "border-run",
+        "image_ratio": "ratio1_2",
+        "image_size": "cover",
+        "image_position": "8",
+        "layout_des": "1",
+        "col_dk": "6",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_pos": "default",
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": false,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "16460362229768af39": {
       "type": "banner",
       "blocks": {
@@ -1285,145 +1424,6 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
-    },
-    "7af64d3f-b3d2-409f-a45c-6f1a585ead01": {
-      "type": "collections-list",
-      "blocks": {
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-1": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "arneses-para-canicross-corre-perro-mexico",
-            "icon": "las la-gem",
-            "collection_title": "Arneses para perros",
-            "collection_link": ""
-          }
-        },
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-2": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "cinturones",
-            "icon": "las la-gem",
-            "collection_title": "Cinturones para humanos",
-            "collection_link": ""
-          }
-        },
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-3": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "collares",
-            "icon": "las la-gem",
-            "collection_title": "Collares para perros activos",
-            "collection_link": ""
-          }
-        },
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-4": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "correas",
-            "icon": "las la-gem",
-            "collection_title": "Correas para toda actividad",
-            "collection_link": ""
-          }
-        },
-        "e611029c-6aa9-4243-8b81-0817b0ff0e10": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "kits-starter-packs",
-            "icon": "las la-gem",
-            "collection_title": "Kit de aventuras personalizados",
-            "collection_link": ""
-          }
-        },
-        "fee2b8eb-a2f6-454d-a75a-4cf7776dafa6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "accesorios",
-            "icon": "las la-gem",
-            "collection_title": "Complementos",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-1",
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-2",
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-3",
-        "template--15320391024755__7af64d3f-b3d2-409f-a45c-6f1a585ead01-collection_item-4",
-        "e611029c-6aa9-4243-8b81-0817b0ff0e10",
-        "fee2b8eb-a2f6-454d-a75a-4cf7776dafa6"
-      ],
-      "settings": {
-        "design_heading": "13",
-        "heading_align": "t4s-text-center",
-        "top_heading": "CATEGORÍAS DE TUS ARTÍCULOS DEPORTIVOS",
-        "icon_heading": "las la-gem",
-        "top_subheading": "PERSONALIZADA TU KIT A TU MANERA",
-        "tophead_mb": 30,
-        "head_btn_label": "View All",
-        "head_btn_url": "",
-        "head_btn_icon": false,
-        "head_btn_style": "default",
-        "head_btn_size": "medium",
-        "head_btn_cl": "dark",
-        "head_btn_effect": "default",
-        "head_btn_hidden_mb": false,
-        "collection_des": "1",
-        "title_cl": "#ffffff",
-        "title_cl_hover": "#222222",
-        "subtitle_cl": "#878787",
-        "count_cl": "#222222",
-        "border_cl": "#e5e5e5",
-        "collection_subtitle": "Products",
-        "open_link": "_self",
-        "source": "image",
-        "space_bottom": 20,
-        "space_bottom_tb": 20,
-        "space_bottom_mb": 10,
-        "border": false,
-        "item_pd": 0,
-        "item_rd": 0,
-        "img_effect": "zoom",
-        "b_effect": "border-run",
-        "image_ratio": "ratio1_2",
-        "image_size": "cover",
-        "image_position": "8",
-        "layout_des": "1",
-        "col_dk": "6",
-        "col_tb": "2",
-        "col_mb": "2",
-        "space_h_item": "30",
-        "space_v_item": "30",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
-        "loop": true,
-        "au_time": 0,
-        "au_hover": true,
-        "nav_btn": false,
-        "btn_pos": "default",
-        "btn_vi": "hover",
-        "btn_owl": "default",
-        "btn_shape": "none",
-        "btn_cl": "dark",
-        "btn_size": "small",
-        "btn_hidden_mobile": false,
-        "nav_dot": false,
-        "dot_owl": "default",
-        "dots_cl": "dark",
-        "dots_round": true,
-        "dots_space": 10,
-        "dots_hidden_mobile": false,
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_tb": "",
-        "pd_tb": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
     }
   },
   "order": [
@@ -1431,12 +1431,12 @@
     "164620932069107a3a",
     "164603504020ce33da",
     "1646035317ea8b6928",
+    "7af64d3f-b3d2-409f-a45c-6f1a585ead01",
     "16460362229768af39",
     "164603686708691778",
     "16460368750174c54a",
     "a7c37066-7895-4c84-b6bc-708059673f2b",
     "b29317e7-eb8c-4159-89a1-dd78ba000972",
-    "426d0354-e9ff-42d1-9d96-7d17a6b3c023",
-    "7af64d3f-b3d2-409f-a45c-6f1a585ead01"
+    "426d0354-e9ff-42d1-9d96-7d17a6b3c023"
   ]
 }
