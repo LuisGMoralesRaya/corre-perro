@@ -50,8 +50,8 @@
             "tag": "p",
             "fontf": "1",
             "text_cl": "#ffffff",
-            "text_fs": 55,
-            "text_lh": 55,
+            "text_fs": 60,
+            "text_lh": 60,
             "text_fw": 600,
             "text_ls": 0,
             "text_mgb": 10,
@@ -274,6 +274,29 @@
             "animation_delay": 40
           }
         },
+        "164602873867eb3815-6": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Descubre como puedes hacer un gran equipo deportivo junto a tu perro",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 60,
+            "text_lh": 55,
+            "text_fw": 600,
+            "text_ls": 0,
+            "text_mgb": 10,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 28,
+            "text_lh_mb": 28,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "fadeInDown"
+          }
+        },
         "164602873867eb3815-5": {
           "type": "custom_text",
           "settings": {
@@ -294,29 +317,6 @@
             "text_lh_mb": 0,
             "text_ls_mb": 0,
             "text_mgb_mobile": 5,
-            "animation": "fadeInDown"
-          }
-        },
-        "164602873867eb3815-6": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Descubre como puedes hacer un gran equipo deportivo junto a tu perro",
-            "remove_br_tag": false,
-            "tag": "p",
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 55,
-            "text_lh": 55,
-            "text_fw": 600,
-            "text_ls": 0,
-            "text_mgb": 10,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 28,
-            "text_lh_mb": 28,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
             "animation": "fadeInDown"
           }
         },
@@ -362,8 +362,8 @@
         "ff196d3a-1239-4855-9969-90603c8cb52d",
         "efa3ea83-c43c-48b4-85ed-90ed7642e2f7",
         "164602873867eb3815-4",
-        "164602873867eb3815-5",
         "164602873867eb3815-6",
+        "164602873867eb3815-5",
         "164602873867eb3815-7"
       ],
       "settings": {
