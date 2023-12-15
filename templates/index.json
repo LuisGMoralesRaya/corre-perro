@@ -114,8 +114,8 @@
             "fsbutton_mb": 12,
             "button_mh_mb": 36,
             "button_pd_lr_mb": 22,
-            "button_ls_mb": 10,
-            "button_mgb_mb": 0,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 5,
             "animation": "fadeInUp"
           }
         },
