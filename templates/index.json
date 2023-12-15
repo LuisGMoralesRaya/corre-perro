@@ -158,29 +158,6 @@
             "animation_delay": 40
           }
         },
-        "b069b77f-6f77-41d8-839e-5f21d12217db": {
-          "type": "custom_text",
-          "settings": {
-            "text": "",
-            "remove_br_tag": false,
-            "tag": "p",
-            "fontf": "2",
-            "text_cl": "#222222",
-            "text_fs": 18,
-            "text_lh": 0,
-            "text_fw": 500,
-            "text_ls": 0,
-            "text_mgb": 5,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 12,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 5,
-            "animation": "fadeInUp"
-          }
-        },
         "ff196d3a-1239-4855-9969-90603c8cb52d": {
           "type": "custom_text",
           "settings": {
@@ -201,6 +178,29 @@
             "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
+            "animation": "fadeInUp"
+          }
+        },
+        "b069b77f-6f77-41d8-839e-5f21d12217db": {
+          "type": "custom_text",
+          "settings": {
+            "text": "",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "2",
+            "text_cl": "#222222",
+            "text_fs": 18,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "text_mgb": 5,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 12,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 5,
             "animation": "fadeInUp"
           }
         },
@@ -339,7 +339,7 @@
             "button_ls": 1,
             "button_mh": 40,
             "button_bdr": 10,
-            "button_pd_lr": 0,
+            "button_pd_lr": 32,
             "button_mgb": 0,
             "hidden_mobile": false,
             "button_icon_w_mb": 0,
@@ -358,8 +358,8 @@
         "164602873867eb3815-1",
         "390cb6f8-c5fc-44ed-badf-074a03818e5a",
         "aca13d02-fdca-4dd7-b455-cc71ffabb08a",
-        "b069b77f-6f77-41d8-839e-5f21d12217db",
         "ff196d3a-1239-4855-9969-90603c8cb52d",
+        "b069b77f-6f77-41d8-839e-5f21d12217db",
         "efa3ea83-c43c-48b4-85ed-90ed7642e2f7",
         "164602873867eb3815-4",
         "164602873867eb3815-6",
