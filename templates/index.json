@@ -59,7 +59,7 @@
             "text_shadow": false,
             "hidden_mobile": false,
             "text_fs_mb": 20,
-            "text_lh_mb": 18,
+            "text_lh_mb": 20,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "fadeInUp"
@@ -218,7 +218,7 @@
             "second_cl": "#ffffff",
             "pri_cl_hover": "#56cfe1",
             "second_cl_hover": "#ffffff",
-            "fsbutton": 14,
+            "fsbutton": 16,
             "fwbutton": 600,
             "button_ls": 0,
             "button_mh": 40,
