@@ -628,7 +628,7 @@
         "settings": {
           "layout": "menu_split",
           "full_header": true,
-          "height": 70,
+          "height": 80,
           "arrow": true,
           "align": "center",
           "hover": "hover_sideup",
@@ -643,7 +643,7 @@
           "show_search": true,
           "show_acc": true,
           "show_wis": true,
-          "cart_des": "1",
+          "cart_des": "4",
           "bg_hc": "#383838",
           "cl_hc": "#ffffff",
           "sticky_header": true,
