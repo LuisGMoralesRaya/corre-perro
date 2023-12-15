@@ -607,7 +607,7 @@
               "url": "shopify:\/\/collections\/best-sellers",
               "open_link": "_self",
               "menu": "",
-              "icon": "las la-cart-plus",
+              "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
