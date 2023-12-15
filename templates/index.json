@@ -92,7 +92,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "¡Explorar Artículos Aquí!",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify:\/\/collections\/all",
             "target_link": "_self",
             "fontf": "2",
             "button_icon_w": 0,
