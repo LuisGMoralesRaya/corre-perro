@@ -323,7 +323,7 @@
         "164602873867eb3815-7": {
           "type": "custom_button",
           "settings": {
-            "button_text": "Explore Now",
+            "button_text": "¡Conviértete en un DOGportista!",
             "button_link": "shopify:\/\/collections",
             "target_link": "_self",
             "fontf": "inherit",
