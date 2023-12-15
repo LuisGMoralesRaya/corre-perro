@@ -378,7 +378,7 @@
         "loop": true,
         "au_time": 8.5,
         "au_hover": true,
-        "nav_btn": false,
+        "nav_btn": true,
         "btn_vi": "hover",
         "btn_owl": "default",
         "btn_shape": "none",
