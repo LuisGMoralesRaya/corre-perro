@@ -163,7 +163,7 @@
           "settings": {
             "text": "Un perro activo es un perro feliz, un perro feliz un dueño contento",
             "remove_br_tag": false,
-            "tag": "p",
+            "tag": "h6",
             "fontf": "2",
             "text_cl": "#ffffff",
             "text_fs": 55,
