@@ -660,8 +660,8 @@
           "clnavtr_hover": "#ffffff",
           "fm_nav": "1",
           "fs_nav": 15,
-          "fw_nav": 400,
-          "ls_nav": 0
+          "fw_nav": 300,
+          "ls_nav": 3
         }
       },
       "title_config": {
