@@ -245,7 +245,7 @@
             "open_link": "_blank",
             "animate_slide": "none",
             "text_align": "start",
-            "text_align_mb": "center",
+            "text_align_mb": "start",
             "content_width": "container",
             "cv_pos": 50,
             "ch_pos": 0,
