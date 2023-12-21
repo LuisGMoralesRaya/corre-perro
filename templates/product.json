@@ -86,7 +86,7 @@
             "time": 6,
             "btn_txt": "2",
             "btn_icon": true,
-            "button_style": "outline",
+            "button_style": "default",
             "button_color": "dark",
             "button_effect": "sweep-to-top",
             "wishlist_color": "#ff9800",
