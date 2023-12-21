@@ -599,13 +599,31 @@
               "lb": "",
               "lb_cl": ""
             }
+          },
+          "52e65b9e-127f-4ca2-8439-f2d322403b3a": {
+            "type": "drop",
+            "settings": {
+              "title": "Los Más Vendidos",
+              "url": "shopify:\/\/collections\/best-sellers",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "las la-cart-plus",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
           }
         },
         "block_order": [
           "8ca48f7d-ac88-46cf-aee5-6ddd92032868",
           "04f6b18b-99ce-49a2-b00f-2a1a92c8ec2f",
           "c0785693-8125-4d19-8eff-cae55becf8f9",
-          "1820a74f-801c-4c8a-8354-f180bfa43182"
+          "1820a74f-801c-4c8a-8354-f180bfa43182",
+          "52e65b9e-127f-4ca2-8439-f2d322403b3a"
         ],
         "settings": {
           "layout": "menu_split",
