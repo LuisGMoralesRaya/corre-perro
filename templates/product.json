@@ -75,7 +75,7 @@
           "settings": {
             "selector_mode": "block2",
             "color_mode": "color is-sw-cl__round",
-            "enable_fit_ratio_img": false,
+            "enable_fit_ratio_img": true,
             "color_size": "medium",
             "show_qty": true,
             "enable_wishlist": true,
@@ -94,7 +94,7 @@
             "wishlist_color_active": "#e81e1e",
             "compare_color": "#ff9800",
             "compare_color_hover": "#56cfe1",
-            "compare_color_active": "#222222",
+            "compare_color_active": "#1e2a54",
             "show_dynamic_checkout": true,
             "btn_txt2": "3",
             "button_color_payment": "dark",
