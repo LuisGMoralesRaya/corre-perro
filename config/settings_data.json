@@ -40,6 +40,7 @@
     "color_ck": "negro, naranaja, verde, mordado",
     "price_varies_style": "1",
     "type_qv": "2",
+    "enable_rating": true,
     "show_qty": false,
     "pr_border_style": "1",
     "enable_pr_color": true,
