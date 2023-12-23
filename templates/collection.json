@@ -212,7 +212,7 @@
         "product_des": "3",
         "show_vendor": true,
         "use_cdt": false,
-        "image_ratio": "rationt",
+        "image_ratio": "ratioadapt",
         "image_size": "cover",
         "image_position": "8",
         "content_align": "default",
