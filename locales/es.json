@@ -80,7 +80,7 @@
       "compare": "",
       "search": "",
       "login_register": "",
-      "my_account": ""
+      "my_account": "Mi cuenta"
     },
     "sidebar": {
       "open": "",
@@ -482,7 +482,7 @@
       "error_heading": ""
     },
     "account": {
-      "title": "",
+      "title": "MI CUENTA",
       "make_order": "",
       "none": "",
       "hello_html": "",
