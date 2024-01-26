@@ -1115,6 +1115,11 @@
               "icon": "las la-blog"
             }
           },
+          "acc_MayDr6": {
+            "type": "acc",
+            "settings": {
+            }
+          },
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86": {
             "type": "menu",
             "settings": {
@@ -1142,6 +1147,7 @@
           "aef227d2-d05c-4191-879f-3c592e101adb",
           "6b67f124-d998-4007-9467-49fd3d5a1f07",
           "a5b7afc3-6e92-4740-856a-f589ca228ad7",
+          "acc_MayDr6",
           "ff8e8ffa-193d-400f-9f69-2a1aa23acd86",
           "mb_nav-7"
         ],
