@@ -598,15 +598,15 @@
       "submit": ""
     },
     "register": {
-      "login_here": "",
-      "title": "",
-      "first_name": "",
-      "last_name": "",
+      "login_here": "¿Ya tienes una cuenta? Entre aquí",
+      "title": "Registro",
+      "first_name": "Nombre",
+      "last_name": "Apellidos",
       "email": "Correo Electronico",
-      "password": "",
-      "submit": "",
-      "privacy_policy": "",
-      "privacy_policy_html": ""
+      "password": "Contrase{a",
+      "submit": "Registrar",
+      "privacy_policy": "Sus datos personales se utilizarán para respaldar su experiencia en este sitio web, para administrar el acceso a su cuenta y para otros fines descritos en nuestra política de privacidad.",
+      "privacy_policy_html": "Sus datos personales se utilizarán para respaldar su experiencia en este sitio web, para administrar el acceso a su cuenta y para otros fines descritos en nuestra <a href=&quot;{{ link }}&quot; class=\"política-de-privacidad-enlace fwm\" target=&quot;_blank&quot;>política de privacidad<\/a>."
     }
   },
   "password_page": {
