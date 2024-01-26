@@ -1750,6 +1750,9 @@ Version: 1.0
    10. COLORS CSS
    ========================================================================== */
     /*150 colors css*/
+[data-shopify="payment-button"]{
+  display:none!important;
+}
     [class*=' bg_color_'] {
         font-size: 0;
         --t4s-bg-color: #e5e5e5;
