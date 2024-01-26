@@ -61,6 +61,7 @@
     "use_incoming_mess": true,
     "variant_remove": "2",
     "share_source": "1",
+    "enable_confetti": false,
     "gift_wrap_pr": "gift-wrap",
     "use_privacy_policy": true,
     "filter_type_search": true,
