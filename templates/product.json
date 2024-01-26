@@ -50,7 +50,7 @@
             "review_liquid": "",
             "size_price_pr": 22,
             "fw_price_pr": 300,
-            "price_color": "#ddd",
+            "price_color": "#dddddd",
             "price_sale_color": "#1e2a54"
           }
         },
@@ -95,7 +95,7 @@
             "compare_color": "#ffffff",
             "compare_color_hover": "#56cfe1",
             "compare_color_active": "#1e2a54",
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "btn_txt2": "3",
             "button_color_payment": "dark",
             "show_gift_card_recipient": true,
