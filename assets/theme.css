@@ -1755,6 +1755,10 @@ Version: 1.0
         --t4s-bg-color: #e5e5e5;
         background-color: var(--t4s-bg-color)
     }
+.bg_color_rosa-con-gris{
+  background-image: url(https://cdn.shopify.com/s/files/1/0269/4175/1411/files/22.png?v=1706305760);
+  
+}
     .bg_color_azul-con-gris{
           background-image: url(https://cdn.shopify.com/s/files/1/0269/4175/1411/files/11.png?v=1706305670);
       --t4s-bg-color: #25bdb0
