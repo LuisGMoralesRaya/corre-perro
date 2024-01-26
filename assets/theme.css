@@ -1755,7 +1755,9 @@ Version: 1.0
         --t4s-bg-color: #e5e5e5;
         background-color: var(--t4s-bg-color)
     }
-
+    .bg_color_naranja-con-negro{
+      --t4s-bg-color: #25bdb0
+    }
     .bg_color_cyan {
         --t4s-bg-color: #25bdb0
     }
