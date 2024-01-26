@@ -537,11 +537,11 @@
       "delete_confirm": ""
     },
     "login": {
-      "title": "",
-      "create_account": "",
-      "email": "",
+      "title": "Entrar",
+      "create_account": "¿Nuevo cliente? Crea tu cuenta",
+      "email": "Correo",
       "password": "Contraseña",
-      "forgot_password": "",
+      "forgot_password": "¿Olvidaste tu contraseña?",
       "submit": "",
       "sign_in": "",
       "guest_title": "",
