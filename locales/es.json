@@ -542,10 +542,10 @@
       "email": "Correo",
       "password": "Contraseña",
       "forgot_password": "¿Olvidaste tu contraseña?",
-      "submit": "",
-      "sign_in": "",
-      "guest_title": "",
-      "guest_continue": ""
+      "submit": "Iniciar sesión",
+      "sign_in": "Iniciar sesión",
+      "guest_title": "Continuar como invitado",
+      "guest_continue": "Continuar"
     },
     "orders": {
       "title": "",
