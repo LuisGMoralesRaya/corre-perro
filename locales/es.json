@@ -216,7 +216,7 @@
   "products": {
     "aria_label": {
       "select_option": "",
-      "add_to_cart": "",
+      "add_to_cart": "Comprar Aquí",
       "read_more": ""
     },
     "breadcrumb": {
