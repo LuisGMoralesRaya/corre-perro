@@ -581,11 +581,11 @@
       "note": ""
     },
     "recover_password": {
-      "title": "",
-      "email": "",
-      "submit": "",
-      "save": "",
-      "cancel": "",
+      "title": "Restablecer su contraseña",
+      "email": "Dirección de correo electrónico",
+      "submit": "Restablecer la contraseña",
+      "save": "Guardar",
+      "cancel": "Cancelar",
       "subtext": "",
       "success": "",
       "content_success": ""
