@@ -109,10 +109,10 @@ data-show="login" login , create, recover
                       {% if form.errors contains 'form' %}
                         aria-invalid="true"
                       {% endif %}
-                      placeholder="{{ 'customer.login.email' | t }}"
+                      placeholder="Correo"
                     >
                     <label for="CustomerEmail">
-                      {{ 'customer.login.email' | t }} <span class="required">*</span>
+                      Correo <span class="required">*</span>
                     </label>
                   </div>
 
@@ -127,10 +127,10 @@ data-show="login" login , create, recover
                         {% if form.errors contains 'form' %}
                           aria-invalid="true"
                         {% endif %}
-                        placeholder="{{ 'customer.login.password' | t }}"
+                        placeholder="Contraseña"
                       >
                       <label for="CustomerPassword">
-                        {{ 'customer.login.password' | t }} <span class="required">*</span>
+                        Contraseña <span class="required">*</span>
                       </label>
                     </div>
 
