@@ -964,7 +964,7 @@
         "164603622209bd8d44-4": {
           "type": "custom_text",
           "settings": {
-            "text": "SUMMER SALE",
+            "text": "VENTA DE FIN DE AÑO",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
@@ -987,7 +987,7 @@
         "164603622209bd8d44-5": {
           "type": "custom_text",
           "settings": {
-            "text": "UP TO 20%",
+            "text": "COMPRA 1 ARTÍCULO Y 50% EN OTRO",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
