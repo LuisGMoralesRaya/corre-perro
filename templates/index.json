@@ -837,7 +837,7 @@
             "custom_mb": true,
             "height_mb": 300,
             "image": "shopify://shop_images/safe-life-jacket-20-non-stop-dogwear-855586.jpg",
-            "b_link": "",
+            "b_link": "shopify://collections/promocionesdebuenfin",
             "open_link": "_self",
             "img_effect": "rotate",
             "b_effect": "none",
@@ -874,7 +874,7 @@
         "164603622209bd8d44-1": {
           "type": "custom_text",
           "settings": {
-            "text": "LOOKBOOK 2023",
+            "text": "PROMOCIONES BUEN FIN 2024",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
