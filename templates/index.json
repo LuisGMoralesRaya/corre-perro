@@ -987,7 +987,7 @@
         "164603622209bd8d44-5": {
           "type": "custom_text",
           "settings": {
-            "text": "COMPRA 1 ARTÍCULO Y 50% EN OTRO",
+            "text": "COMPRA 1 ARTÍCULO Y 50% DESC. EN OTRO",
             "remove_br_tag": false,
             "tag": "p",
             "fontf": "inherit",
