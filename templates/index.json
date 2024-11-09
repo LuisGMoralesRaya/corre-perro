@@ -333,7 +333,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "¡Conviértete en un DOGportista!",
-            "button_link": "shopify://collections",
+            "button_link": "shopify://collections/promocionesdebuenfin",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
