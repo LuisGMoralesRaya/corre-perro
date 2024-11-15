@@ -463,7 +463,7 @@
             "type": "announcement",
             "settings": {
               "link": "shopify://collections/promocionesdebuenfin",
-              "content": "<h4><strong>Compra 1 Artículo y 50% Desc. en otro. Envío  Gratis </strong>+ <strong>6 MSI </strong></h4>",
+              "content": "<h4><strong>En esta temporada de fin de año. Compra 1 Artículo y 50% Desc. en otro. Envío  Gratis </strong>+ <strong>6 MSI </strong></h4>",
               "adding_border": true,
               "countdown": "2023/12/26",
               "txt_day": "days",
