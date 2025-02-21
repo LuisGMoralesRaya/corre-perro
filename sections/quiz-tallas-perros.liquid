@@ -1,154 +1,154 @@
 {% schema %}
-  {
-    "name": "Quiz Dog Size",
-    "tag": "section",
-    "class": "dog-size-quiz-section",
-    "max_blocks": 30,
-    "settings": [
-      {
-        "type": "text",
-        "id": "title",
-        "label": "Título del Quiz",
-        "default": "Encuentra la talla perfecta para tu perro"
-      },
-      {
-        "type": "color",
-        "id": "primary_color",
-        "label": "Color Principal",
-        "default": "#000000"
-      },
-      {
-        "type": "color",
-        "id": "secondary_color",
-        "label": "Color Secundario",
-        "default": "#f8f8f8"
-      }
-    ],
-    "blocks": [
-      {
-        "type": "dog_breed",
-        "name": "Raza de Perro",
-        "limit": 30,
-        "settings": [
-          {
-            "type": "image_picker",
-            "id": "breed_image",
-            "label": "Imagen de la Raza"
-          },
-          {
-            "type": "text",
-            "id": "breed_name",
-            "label": "Nombre de la Raza"
-          },
-          {
-            "type": "header",
-            "content": "Rango 1"
-          },
-          {
-            "type": "text",
-            "id": "weight_range_1",
-            "label": "Rango de Peso (ej: 18-22)",
-            "info": "Formato: min-max"
-          },
-          {
-            "type": "text",
-            "id": "neck_range_1",
-            "label": "Rango de Cuello (ej: 36-40)",
-            "info": "Formato: min-max"
-          },
-          {
-            "type": "text",
-            "id": "size_1",
-            "label": "Talla"
-          },
-          {
-            "type": "header",
-            "content": "Rango 2"
-          },
-          {
-            "type": "text",
-            "id": "weight_range_2",
-            "label": "Rango de Peso"
-          },
-          {
-            "type": "text",
-            "id": "neck_range_2",
-            "label": "Rango de Cuello"
-          },
-          {
-            "type": "text",
-            "id": "size_2",
-            "label": "Talla"
-          },
-          {
-            "type": "header",
-            "content": "Rango 3"
-          },
-          {
-            "type": "text",
-            "id": "weight_range_3",
-            "label": "Rango de Peso"
-          },
-          {
-            "type": "text",
-            "id": "neck_range_3",
-            "label": "Rango de Cuello"
-          },
-          {
-            "type": "text",
-            "id": "size_3",
-            "label": "Talla"
-          },
-          {
-            "type": "header",
-            "content": "Rango 4"
-          },
-          {
-            "type": "text",
-            "id": "weight_range_4",
-            "label": "Rango de Peso"
-          },
-          {
-            "type": "text",
-            "id": "neck_range_4",
-            "label": "Rango de Cuello"
-          },
-          {
-            "type": "text",
-            "id": "size_4",
-            "label": "Talla"
-          },
-          {
-            "type": "header",
-            "content": "Rango 5"
-          },
-          {
-            "type": "text",
-            "id": "weight_range_5",
-            "label": "Rango de Peso"
-          },
-          {
-            "type": "text",
-            "id": "neck_range_5",
-            "label": "Rango de Cuello"
-          },
-          {
-            "type": "text",
-            "id": "size_5",
-            "label": "Talla"
-          }
-        ]
-      }
-    ],
-    "presets": [
-      {
-        "name": "Dog Size Quiz"
-      }
-    ]
-  }
-  {% endschema %}
-  
-  {% style %}
+{
+  "name": "Quiz Dog Size",
+  "tag": "section",
+  "class": "dog-size-quiz-section",
+  "max_blocks": 30,
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Título del Quiz",
+      "default": "Encuentra la talla perfecta para tu perro"
+    },
+    {
+      "type": "color",
+      "id": "primary_color",
+      "label": "Color Principal",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "secondary_color",
+      "label": "Color Secundario",
+      "default": "#f8f8f8"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "dog_breed",
+      "name": "Raza de Perro",
+      "limit": 30,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "breed_image",
+          "label": "Imagen de la Raza"
+        },
+        {
+          "type": "text",
+          "id": "breed_name",
+          "label": "Nombre de la Raza"
+        },
+        {
+          "type": "header",
+          "content": "Rango 1"
+        },
+        {
+          "type": "text",
+          "id": "weight_range_1",
+          "label": "Rango de Peso (ej: 18-22)",
+          "info": "Formato: min-max"
+        },
+        {
+          "type": "text",
+          "id": "neck_range_1",
+          "label": "Rango de Cuello (ej: 36-40)",
+          "info": "Formato: min-max"
+        },
+        {
+          "type": "text",
+          "id": "size_1",
+          "label": "Talla"
+        },
+        {
+          "type": "header",
+          "content": "Rango 2"
+        },
+        {
+          "type": "text",
+          "id": "weight_range_2",
+          "label": "Rango de Peso"
+        },
+        {
+          "type": "text",
+          "id": "neck_range_2",
+          "label": "Rango de Cuello"
+        },
+        {
+          "type": "text",
+          "id": "size_2",
+          "label": "Talla"
+        },
+        {
+          "type": "header",
+          "content": "Rango 3"
+        },
+        {
+          "type": "text",
+          "id": "weight_range_3",
+          "label": "Rango de Peso"
+        },
+        {
+          "type": "text",
+          "id": "neck_range_3",
+          "label": "Rango de Cuello"
+        },
+        {
+          "type": "text",
+          "id": "size_3",
+          "label": "Talla"
+        },
+        {
+          "type": "header",
+          "content": "Rango 4"
+        },
+        {
+          "type": "text",
+          "id": "weight_range_4",
+          "label": "Rango de Peso"
+        },
+        {
+          "type": "text",
+          "id": "neck_range_4",
+          "label": "Rango de Cuello"
+        },
+        {
+          "type": "text",
+          "id": "size_4",
+          "label": "Talla"
+        },
+        {
+          "type": "header",
+          "content": "Rango 5"
+        },
+        {
+          "type": "text",
+          "id": "weight_range_5",
+          "label": "Rango de Peso"
+        },
+        {
+          "type": "text",
+          "id": "neck_range_5",
+          "label": "Rango de Cuello"
+        },
+        {
+          "type": "text",
+          "id": "size_5",
+          "label": "Talla"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Dog Size Quiz"
+    }
+  ]
+}
+{% endschema %}
+
+{% style %}
   .quiz-container {
     max-width: 800px;
     margin: 0 auto;
@@ -211,41 +211,50 @@
     cursor: pointer;
     margin-top: 20px;
   }
-  {% endstyle %}
-  
-  <div class="quiz-container">
-    <h2>{{ section.settings.title }}</h2>
-    
-    <div class="breed-grid" id="breedSelector">
-      {% for block in section.blocks %}
-        {% if block.type == 'dog_breed' %}
-          <div class="breed-card" 
-            data-breed="{{ block.settings.breed_name | handleize }}"
-            data-block-id="{{ forloop.index0 }}">
-            {% if block.settings.breed_image %}
-              {{ block.settings.breed_image | image_url: width: 150 | image_tag: class: 'breed-image', alt: block.settings.breed_name }}
-            {% endif %}
-            <h3>{{ block.settings.breed_name }}</h3>
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-  
-    <div id="weightSelector" class="weight-selector">
-      <h3>Selecciona el peso de tu perro</h3>
-      <div id="weightRanges"></div>
-    </div>
-  
-    <div id="resultSection" class="result-section">
-      <h3>Talla recomendada</h3>
-      <p>Para tu <span id="selectedBreed"></span> de <span id="selectedWeight"></span> kg, recomendamos la talla <span id="recommendedSize"></span>.</p>
-      <p>Circunferencia de cuello: <span id="neckSize"></span> cm</p>
-    </div>
-  
-    <button id="resetButton" class="reset-button">Reiniciar Quiz</button>
+{% endstyle %}
+
+<div class="quiz-container">
+  <h2>{{ section.settings.title }}</h2>
+
+  <div class="breed-grid" id="breedSelector">
+    {% for block in section.blocks %}
+      {% if block.type == 'dog_breed' %}
+        <div
+          class="breed-card"
+          data-breed="{{ block.settings.breed_name | handleize }}"
+          data-block-id="{{ forloop.index0 }}"
+        >
+          {% if block.settings.breed_image %}
+            {{
+              block.settings.breed_image
+              | image_url: width: 150
+              | image_tag: class: 'breed-image', alt: block.settings.breed_name
+            }}
+          {% endif %}
+          <h3>{{ block.settings.breed_name }}</h3>
+        </div>
+      {% endif %}
+    {% endfor %}
   </div>
-  
-  <script>
+
+  <div id="weightSelector" class="weight-selector">
+    <h3>Selecciona el peso de tu perro</h3>
+    <div id="weightRanges"></div>
+  </div>
+
+  <div id="resultSection" class="result-section">
+    <h3>Talla recomendada</h3>
+    <p>
+      Para tu <span id="selectedBreed"></span> de <span id="selectedWeight"></span> kg, recomendamos la talla
+      <span id="recommendedSize"></span>.
+    </p>
+    <p>Circunferencia de cuello: <span id="neckSize"></span> cm</p>
+  </div>
+
+  <button id="resetButton" class="reset-button">Reiniciar Quiz</button>
+</div>
+
+<script>
   document.addEventListener('DOMContentLoaded', function() {
     const breedGrid = document.getElementById('breedSelector');
     const weightSelector = document.getElementById('weightSelector');
@@ -293,28 +302,23 @@
     });
   
     function updateWeightRanges(breedCard) {
-      weightRanges.innerHTML = '';
+      
       console.log('Configuraciones de bloques:', {{ section.blocks | map: 'settings' | json }});
-      const blockId = breedCard.dataset.blockId;
-      const block = {{ section.blocks | json }}[blockId];
+      weightRanges.innerHTML = '';
 
-      if (block && block.settings) {
-        for (let i = 1; i <= 5; i++) {
-          const weightRange = block.settings[`weight_range_${i}`];
-          const neckRange = block.settings[`neck_range_${i}`];
-          const size = block.settings[`size_${i}`];
-
-          console.log('Rango', i, ':', weightRange, neckRange, size);
-
-          if (weightRange && neckRange && size) {
-            const div = document.createElement('div');
-            div.className = 'weight-range';
-            div.dataset.value = `${weightRange}|${neckRange}|${size}`;
-            div.textContent = `${weightRange} kg`;
-            weightRanges.appendChild(div);
-          }
+      for (let i = 1; i <= 5; i++) {
+        const weightRange = breedCard.dataset[`weightRange${i}`];
+        const neckRange = breedCard.dataset[`neckRange${i}`];
+        const size = breedCard.dataset[`size${i}`];
+        
+        if (weightRange && neckRange && size) {
+          const div = document.createElement('div');
+          div.className = 'weight-range';
+          div.dataset.value = `${weightRange}|${neckRange}|${size}`;
+          div.textContent = `${weightRange} kg`;
+          weightRanges.appendChild(div);
         }
       }
     }
   });
-  </script>
+</script>
