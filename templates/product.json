@@ -245,6 +245,32 @@
     },
     "quiz_tallas_zm9fCr": {
       "type": "quiz-tallas",
+      "blocks": {
+        "dog_breed_hNpNpN": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "Braco Aleman",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "dog_breed_hNpNpN"
+      ],
       "settings": {
         "title": "Encuentra la talla perfecta para tu perro",
         "primary_color": "#000000",
