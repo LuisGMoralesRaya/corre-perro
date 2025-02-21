@@ -664,131 +664,131 @@
 }
 },
         "dog_breed_6HjBkU": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        },
-        "dog_breed_Lz7AVU": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        },
-        "dog_breed_eVYF3P": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        },
-        "dog_breed_hQTec8": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        },
-        "dog_breed_QUfe8e": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        },
-        "dog_breed_cx4HPd": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        }
+"type": "dog_breed",
+"settings": {
+"breed_name": "Jack Rusell Terrier",
+"weight_range_1": "8-11",
+"neck_range_1": "25, 26 ,27",
+"size_1": "3",
+"weight_range_2": "12-15",
+"neck_range_2": "28, 29, 30, 31,32, 33",
+"size_2": "4",
+"weight_range_3": "",
+"neck_range_3": "",
+"size_3": "",
+"weight_range_4": "",
+"neck_range_4": "",
+"size_4": "",
+"weight_range_5": "",
+"neck_range_5": "",
+"size_5": ""
+}
+},
+"dog_breed_Lz7AVU": {
+"type": "dog_breed",
+"settings": {
+"breed_name": "Perro Lobo Checolosvaco",
+"weight_range_1": "18-23",
+"neck_range_1": "36, 37, 38, 39, 40",
+"size_1": "5",
+"weight_range_2": "24-30",
+"neck_range_2": "40, 41, 42, 43, 44",
+"size_2": "6",
+"weight_range_3": "31-37",
+"neck_range_3": "44, 45, 46, 47, 48",
+"size_3": "7",
+"weight_range_4": "38-44",
+"neck_range_4": "48, 49, 50, 51, 52",
+"size_4": "8",
+"weight_range_5": "45-48",
+"neck_range_5": "52, 53, 54, 55, 56",
+"size_5": "9"
+}
+},
+"dog_breed_eVYF3P": {
+"type": "dog_breed",
+"settings": {
+"breed_name": "Akita Americano",
+"weight_range_1": "22- 24",
+"neck_range_1": "40, 41, 42, 43, 44",
+"size_1": "6",
+"weight_range_2": "25-32",
+"neck_range_2": "44, 45, 46, 47, 48",
+"size_2": "7",
+"weight_range_3": "33-41",
+"neck_range_3": "48, 49, 50, 51, 52",
+"size_3": "8",
+"weight_range_4": "42-50",
+"neck_range_4": "52, 53, 54, 55, 56",
+"size_4": "9",
+"weight_range_5": "",
+"neck_range_5": "",
+"size_5": ""
+}
+},
+"dog_breed_hQTec8": {
+"type": "dog_breed",
+"settings": {
+"breed_name": "Pastor Australinao Ganadero",
+"weight_range_1": "15-18",
+"neck_range_1": "28, 29, 30, 31,32, 33",
+"size_1": "4",
+"weight_range_2": "19-24",
+"neck_range_2": "36, 37, 38, 39, 40",
+"size_2": "5",
+"weight_range_3": "25-31",
+"neck_range_3": "40, 41, 42, 43, 44",
+"size_3": "6",
+"weight_range_4": "32- 37",
+"neck_range_4": "44, 45, 46, 47, 48",
+"size_4": "7",
+"weight_range_5": "",
+"neck_range_5": "",
+"size_5": ""
+}
+},
+"dog_breed_QUfe8e": {
+"type": "dog_breed",
+"settings": {
+"breed_name": "Cane Corso Italiano",
+"weight_range_1": "20-24",
+"neck_range_1": "40, 41, 42, 43, 44",
+"size_1": "6",
+"weight_range_2": "25-32",
+"neck_range_2": "44, 45, 46, 47, 48",
+"size_2": "7",
+"weight_range_3": "33-40",
+"neck_range_3": "48, 49, 50, 51, 52",
+"size_3": "8",
+"weight_range_4": "41-49",
+"neck_range_4": "52, 53, 54, 55, 56",
+"size_4": "9",
+"weight_range_5": "",
+"neck_range_5": "",
+"size_5": ""
+}
+},
+"dog_breed_cx4HPd": {
+"type": "dog_breed",
+"settings": {
+"breed_name": "Otro",
+"weight_range_1": "15-18",
+"neck_range_1": "33, 34,35, 36",
+"size_1": "4",
+"weight_range_2": "19-24",
+"neck_range_2": "36, 37, 38, 39, 40",
+"size_2": "5",
+"weight_range_3": "25-30",
+"neck_range_3": "40, 41, 42, 43, 44",
+"size_3": "6",
+"weight_range_4": "31-36",
+"neck_range_4": "44, 45, 46, 47, 48",
+"size_4": "7",
+"weight_range_5": "37-42",
+"neck_range_5": "48, 49, 50, 51, 52",
+"size_5": "8"
+}
+}
       },
       "block_order": [
         "dog_breed_JayQrt",
