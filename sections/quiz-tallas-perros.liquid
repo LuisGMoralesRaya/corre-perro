@@ -264,8 +264,8 @@
   
   let selectedBreed = '';
 
-  // Preprocess block settings on page load
-  const blockSettings = JSON.parse('{{ section.blocks | map: "settings" | json | escape }}');
+  // Preprocess block settings for Shopify Liquid
+  const blockSettings = {{ section.blocks | map: 'settings' | json }};
 
   breedGrid.addEventListener('click', function(event) {
     const breedCard = event.target.closest('.breed-card');
