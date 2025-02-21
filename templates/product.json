@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumb": {
@@ -13,20 +22,8 @@
       "type": "main-product",
       "blocks": {
         "326e237f-6ebf-448f-9e7c-1cf5232ee25b": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "575c219d-3677-4ecd-8e8c-541e8f5d7d54": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
-          "disabled": true,
-          "settings": {
-            "stars_fill_color": "#ff9800",
-            "star_size": 15,
-            "text_align": "flex-start",
-            "product": "{{product}}",
-            "stars_text_empty": "No reviews"
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "title": {
           "type": "title",
@@ -65,7 +62,7 @@
           }
         },
         "461ac1c5-11ed-48e3-8b80-39adec169ac4": {
-          "type": "shopify:\/\/apps\/aplazo-banner\/blocks\/product-banner\/baf789e0-a296-4b10-bc87-11417720714b",
+          "type": "shopify://apps/aplazo-banner/blocks/product-banner/baf789e0-a296-4b10-bc87-11417720714b",
           "settings": {
             "aplazo_theme": ""
           }
@@ -99,15 +96,11 @@
             "btn_txt2": "3",
             "button_color_payment": "dark",
             "show_gift_card_recipient": true,
-            "product_list": [
-
-            ],
+            "product_list": [],
             "show_product_current": true,
             "qty_val": "1",
             "advance_label": "Choose style",
-            "advance_pr_list": [
-
-            ]
+            "advance_pr_list": []
           }
         },
         "23551ebc-3be1-40d6-81b2-30f03478cccb": {
@@ -174,20 +167,19 @@
           "disabled": true,
           "settings": {
             "title": "DE DOGPORTISTA A DOGPORTISTA",
-            "review_liquid": "<!-- Start of Judge.me code --><div style='clear:both'><\/div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}<\/div><!-- End of Judge.me code -->"
+            "review_liquid": "<!-- Start of Judge.me code --><div style='clear:both'></div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}</div><!-- End of Judge.me code -->"
           }
         },
         "01210b64-4eb2-4abd-bc12-a93596a6f666": {
           "type": "tab_liquid",
           "settings": {
             "title": "DE DOGPORTISTA A DOGPORTISTA",
-            "custom_liquid": "<!-- Start of Judge.me code --><div style='clear:both'><\/div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}<\/div><!-- End of Judge.me code -->"
+            "custom_liquid": "<!-- Start of Judge.me code --><div style='clear:both'></div><div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>{{ product.metafields.judgeme.widget }}</div><!-- End of Judge.me code -->"
           }
         }
       },
       "block_order": [
         "326e237f-6ebf-448f-9e7c-1cf5232ee25b",
-        "575c219d-3677-4ecd-8e8c-541e8f5d7d54",
         "title",
         "price_review",
         "description",
@@ -251,6 +243,14 @@
         "time": 3
       }
     },
+    "quiz_tallas_zm9fCr": {
+      "type": "quiz-tallas",
+      "settings": {
+        "title": "Encuentra la talla perfecta para tu perro",
+        "primary_color": "#000000",
+        "secondary_color": "#f8f8f8"
+      }
+    },
     "sidebar": {
       "type": "sidebar-product",
       "blocks": {
@@ -292,7 +292,7 @@
           "settings": {
             "title": "Shipping & Delivery",
             "shipping_1": "las la-truck,FREE SHIPPING,Free shipping for all US order",
-            "shipping_2": "las la-headset,SUPPORT 24\/7,We support 24 hours a day",
+            "shipping_2": "las la-headset,SUPPORT 24/7,We support 24 hours a day",
             "shipping_3": "las la-exchange-alt,30 DAYS RETURN,You have 30 days to return",
             "shipping_4": "",
             "shipping_5": "",
@@ -305,7 +305,7 @@
             "b_link": "",
             "open_link": "_self",
             "img_effect": "none",
-            "date": "2022\/12\/26",
+            "date": "2022/12/26",
             "content_align": "center",
             "cdt_des": "2",
             "countdown_pos": "2",
@@ -452,6 +452,7 @@
   "order": [
     "breadcrumb",
     "main",
+    "quiz_tallas_zm9fCr",
     "sidebar",
     "product-recommendations",
     "recently-viewed-products"
