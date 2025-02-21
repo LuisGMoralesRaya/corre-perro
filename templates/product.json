@@ -243,40 +243,6 @@
         "time": 3
       }
     },
-    "quiz_tallas_bE3Ujf": {
-      "type": "quiz-tallas",
-      "blocks": {
-        "dog_breed_Hd8g4q": {
-          "type": "dog_breed",
-          "settings": {
-            "breed_name": "",
-            "weight_range_1": "",
-            "neck_range_1": "",
-            "size_1": "",
-            "weight_range_2": "",
-            "neck_range_2": "",
-            "size_2": "",
-            "weight_range_3": "",
-            "neck_range_3": "",
-            "size_3": "",
-            "weight_range_4": "",
-            "neck_range_4": "",
-            "size_4": "",
-            "weight_range_5": "",
-            "neck_range_5": "",
-            "size_5": ""
-          }
-        }
-      },
-      "block_order": [
-        "dog_breed_Hd8g4q"
-      ],
-      "settings": {
-        "title": "Encuentra la talla perfecta para tu perro",
-        "primary_color": "#000000",
-        "secondary_color": "#f8f8f8"
-      }
-    },
     "sidebar": {
       "type": "sidebar-product",
       "disabled": true,
@@ -399,14 +365,466 @@
         "mg_mb": ",,30px,",
         "pd_mb": ""
       }
+    },
+    "quiz_tallas_perros_fYxni7": {
+      "type": "quiz-tallas-perros",
+      "blocks": {
+        "dog_breed_JayQrt": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_Q7JTyC": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_aY6DYh": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_t3j4yC": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_gdgrJw": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_J88iTh": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_EwHAyr": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_AiqdUU": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_QEn7xd": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_Ga6aCM": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_9yzq3d": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_pVM9bA": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_6fFV6q": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_YFqVYa": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_6HjBkU": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_Lz7AVU": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_eVYF3P": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_hQTec8": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_QUfe8e": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        },
+        "dog_breed_cx4HPd": {
+          "type": "dog_breed",
+          "settings": {
+            "breed_name": "",
+            "weight_range_1": "",
+            "neck_range_1": "",
+            "size_1": "",
+            "weight_range_2": "",
+            "neck_range_2": "",
+            "size_2": "",
+            "weight_range_3": "",
+            "neck_range_3": "",
+            "size_3": "",
+            "weight_range_4": "",
+            "neck_range_4": "",
+            "size_4": "",
+            "weight_range_5": "",
+            "neck_range_5": "",
+            "size_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "dog_breed_JayQrt",
+        "dog_breed_Q7JTyC",
+        "dog_breed_aY6DYh",
+        "dog_breed_t3j4yC",
+        "dog_breed_gdgrJw",
+        "dog_breed_J88iTh",
+        "dog_breed_EwHAyr",
+        "dog_breed_AiqdUU",
+        "dog_breed_QEn7xd",
+        "dog_breed_Ga6aCM",
+        "dog_breed_9yzq3d",
+        "dog_breed_pVM9bA",
+        "dog_breed_6fFV6q",
+        "dog_breed_YFqVYa",
+        "dog_breed_6HjBkU",
+        "dog_breed_Lz7AVU",
+        "dog_breed_eVYF3P",
+        "dog_breed_hQTec8",
+        "dog_breed_QUfe8e",
+        "dog_breed_cx4HPd"
+      ],
+      "settings": {
+        "title": "Encuentra la talla perfecta para tu perro",
+        "primary_color": "#000000",
+        "secondary_color": "#f8f8f8"
+      }
     }
   },
   "order": [
     "breadcrumb",
     "main",
-    "quiz_tallas_bE3Ujf",
     "sidebar",
     "product-recommendations",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "quiz_tallas_perros_fYxni7"
   ]
 }
