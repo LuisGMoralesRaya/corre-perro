@@ -294,7 +294,7 @@
   
     function updateWeightRanges(breedCard) {
       weightRanges.innerHTML = '';
-      console.log('Bloques:', '{{ section.blocks }}');
+      console.log('Bloques:', '{{ section.blocks | json }}');
       const blockId = breedCard.dataset.blockId;
       const block = {{ section.blocks | json }}[blockId];
 
