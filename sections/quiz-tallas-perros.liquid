@@ -306,19 +306,24 @@
       console.log('Configuraciones de bloques:', {{ section.blocks | map: 'settings' | json }});
       weightRanges.innerHTML = '';
 
-      for (let i = 1; i <= 5; i++) {
-        const weightRange = breedCard.dataset[`weightRange${i}`];
-        const neckRange = breedCard.dataset[`neckRange${i}`];
-        const size = breedCard.dataset[`size${i}`];
-        
-        if (weightRange && neckRange && size) {
-          const div = document.createElement('div');
-          div.className = 'weight-range';
-          div.dataset.value = `${weightRange}|${neckRange}|${size}`;
-          div.textContent = `${weightRange} kg`;
-          weightRanges.appendChild(div);
-        }
+  const blockId = breedCard.dataset.blockId;
+  const block = {{ section.blocks | map: 'settings' }}[blockId];
+
+  if (block) {
+    for (let i = 1; i <= 5; i++) {
+      const weightRange = block[`weight_range_${i}`];
+      const neckRange = block[`neck_range_${i}`];
+      const size = block[`size_${i}`];
+
+      if (weightRange && neckRange && size) {
+        const div = document.createElement('div');
+        div.className = 'weight-range';
+        div.dataset.value = `${weightRange}|${neckRange}|${size}`;
+        div.textContent = `${weightRange} kg`;
+        weightRanges.appendChild(div);
       }
+    }
+  }
     }
   });
 </script>
