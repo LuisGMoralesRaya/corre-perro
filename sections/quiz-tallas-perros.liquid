@@ -267,6 +267,9 @@
   // Preprocess block settings for Shopify Liquid
   const blockSettings = {{ section.blocks | map: 'settings' | json }};
 
+  // Debugging: Log block settings to console
+  console.log('Block Settings:', blockSettings);
+
   breedGrid.addEventListener('click', function(event) {
     const breedCard = event.target.closest('.breed-card');
     if (breedCard) {
@@ -274,6 +277,11 @@
       breedCard.classList.add('selected');
       
       selectedBreed = breedCard.dataset.breed;
+      
+      // Debugging: Log selected breed and block ID
+      console.log('Selected Breed:', selectedBreed);
+      console.log('Block ID:', breedCard.dataset.blockId);
+      
       updateWeightRanges(breedCard);
       
       breedGrid.style.display = 'none';
@@ -305,17 +313,27 @@
   });
 
   function updateWeightRanges(breedCard) {
-    console.log('Configuraciones de bloques:', blockSettings);
+    console.log('Método updateWeightRanges llamado');
     weightRanges.innerHTML = '';
 
-    const blockId = breedCard.dataset.blockId;
-    const block = blockSettings.find(b => b.id === blockId);
+    const blockId = parseInt(breedCard.dataset.blockId);
+    console.log('Buscando bloque con ID:', blockId);
+
+    // Debugging: Check the type of blockSettings
+    console.log('Tipo de blockSettings:', typeof blockSettings, Array.isArray(blockSettings));
+
+    // Instead of .find(), use direct indexing
+    const block = blockSettings[blockId];
+
+    console.log('Bloque encontrado:', block);
 
     if (block) {
       for (let i = 1; i <= 5; i++) {
         const weightRange = block[`weight_range_${i}`];
         const neckRange = block[`neck_range_${i}`];
         const size = block[`size_${i}`];
+
+        console.log(`Rango ${i}:`, {weightRange, neckRange, size});
 
         if (weightRange && neckRange && size) {
           const div = document.createElement('div');
@@ -325,6 +343,11 @@
           weightRanges.appendChild(div);
         }
       }
+      
+      // Debugging: Check if any weight ranges were added
+      console.log('Número de rangos añadidos:', weightRanges.children.length);
+    } else {
+      console.error('No se encontró el bloque para este ID');
     }
   }
 });
