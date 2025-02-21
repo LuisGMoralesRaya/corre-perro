@@ -255,75 +255,77 @@
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const breedGrid = document.getElementById('breedSelector');
-    const weightSelector = document.getElementById('weightSelector');
-    const weightRanges = document.getElementById('weightRanges');
-    const resultSection = document.getElementById('resultSection');
-    const resetButton = document.getElementById('resetButton');
-    
-    let selectedBreed = '';
+ document.addEventListener('DOMContentLoaded', function() {
+  const breedGrid = document.getElementById('breedSelector');
+  const weightSelector = document.getElementById('weightSelector');
+  const weightRanges = document.getElementById('weightRanges');
+  const resultSection = document.getElementById('resultSection');
+  const resetButton = document.getElementById('resetButton');
   
-    breedGrid.addEventListener('click', function(event) {
-      const breedCard = event.target.closest('.breed-card');
-      if (breedCard) {
-        document.querySelector('.breed-card.selected')?.classList.remove('selected');
-        breedCard.classList.add('selected');
-        
-        selectedBreed = breedCard.dataset.breed;
-        updateWeightRanges(breedCard);
-        
-        breedGrid.style.display = 'none';
-        weightSelector.classList.add('active');
-        resultSection.classList.remove('active');
-      }
-    });
-  
-    weightRanges.addEventListener('click', function(event) {
-      const selectedWeight = event.target.closest('.weight-range');
-      if (selectedWeight) {
-        const [weight, neck, size] = selectedWeight.dataset.value.split('|');
-        
-        document.getElementById('selectedBreed').textContent = selectedBreed.replace('-', ' ');
-        document.getElementById('selectedWeight').textContent = weight;
-        document.getElementById('recommendedSize').textContent = size;
-        document.getElementById('neckSize').textContent = neck;
-        
-        weightSelector.classList.remove('active');
-        resultSection.classList.add('active');
-      }
-    });
-  
-    resetButton.addEventListener('click', function() {
-      breedGrid.style.display = 'grid';
-      weightSelector.classList.remove('active');
-      resultSection.classList.remove('active');
+  let selectedBreed = '';
+
+  // Preprocess block settings on page load
+  const blockSettings = JSON.parse('{{ section.blocks | map: "settings" | json | escape }}');
+
+  breedGrid.addEventListener('click', function(event) {
+    const breedCard = event.target.closest('.breed-card');
+    if (breedCard) {
       document.querySelector('.breed-card.selected')?.classList.remove('selected');
-    });
-  
-    function updateWeightRanges(breedCard) {
+      breedCard.classList.add('selected');
       
-      console.log('Configuraciones de bloques:', {{ section.blocks | map: 'settings' | json }});
-      weightRanges.innerHTML = '';
+      selectedBreed = breedCard.dataset.breed;
+      updateWeightRanges(breedCard);
+      
+      breedGrid.style.display = 'none';
+      weightSelector.classList.add('active');
+      resultSection.classList.remove('active');
+    }
+  });
 
-  const blockId = breedCard.dataset.blockId;
-  const block = {{ section.blocks | map: 'settings' }}[blockId];
+  weightRanges.addEventListener('click', function(event) {
+    const selectedWeight = event.target.closest('.weight-range');
+    if (selectedWeight) {
+      const [weight, neck, size] = selectedWeight.dataset.value.split('|');
+      
+      document.getElementById('selectedBreed').textContent = selectedBreed.replace('-', ' ');
+      document.getElementById('selectedWeight').textContent = weight;
+      document.getElementById('recommendedSize').textContent = size;
+      document.getElementById('neckSize').textContent = neck;
+      
+      weightSelector.classList.remove('active');
+      resultSection.classList.add('active');
+    }
+  });
 
-  if (block) {
-    for (let i = 1; i <= 5; i++) {
-      const weightRange = block[`weight_range_${i}`];
-      const neckRange = block[`neck_range_${i}`];
-      const size = block[`size_${i}`];
+  resetButton.addEventListener('click', function() {
+    breedGrid.style.display = 'grid';
+    weightSelector.classList.remove('active');
+    resultSection.classList.remove('active');
+    document.querySelector('.breed-card.selected')?.classList.remove('selected');
+  });
 
-      if (weightRange && neckRange && size) {
-        const div = document.createElement('div');
-        div.className = 'weight-range';
-        div.dataset.value = `${weightRange}|${neckRange}|${size}`;
-        div.textContent = `${weightRange} kg`;
-        weightRanges.appendChild(div);
+  function updateWeightRanges(breedCard) {
+    console.log('Configuraciones de bloques:', blockSettings);
+    weightRanges.innerHTML = '';
+
+    const blockId = breedCard.dataset.blockId;
+    const block = blockSettings.find(b => b.id === blockId);
+
+    if (block) {
+      for (let i = 1; i <= 5; i++) {
+        const weightRange = block[`weight_range_${i}`];
+        const neckRange = block[`neck_range_${i}`];
+        const size = block[`size_${i}`];
+
+        if (weightRange && neckRange && size) {
+          const div = document.createElement('div');
+          div.className = 'weight-range';
+          div.dataset.value = `${weightRange}|${neckRange}|${size}`;
+          div.textContent = `${weightRange} kg`;
+          weightRanges.appendChild(div);
+        }
       }
     }
   }
-    }
-  });
+});
 </script>
